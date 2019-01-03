@@ -1,3 +1,3 @@
 #!/bin/sh
 
-java -Xms4G -Xmx4G -XX:+UseConcMarkSweepGC -jar spigot.jar
+java -Xms3G -Xmx3G -XX:+UseConcMarkSweepGC -jar spigot.jar

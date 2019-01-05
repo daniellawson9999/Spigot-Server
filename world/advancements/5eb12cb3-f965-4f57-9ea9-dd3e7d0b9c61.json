@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-01-05 01:24:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2019-01-01 06:33:50 +0000"
@@ -146,6 +152,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2019-01-01 07:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-01-05 01:24:13 +0000"
     },
     "done": true
   },
@@ -418,11 +430,28 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2019-01-05 01:17:17 +0000",
+      "cooked_mutton": "2019-01-05 01:59:02 +0000",
       "cooked_beef": "2019-01-01 08:36:28 +0000",
       "baked_potato": "2019-01-01 06:52:23 +0000",
+      "beef": "2019-01-05 01:28:02 +0000",
+      "porkchop": "2019-01-05 00:57:44 +0000",
+      "spider_eye": "2019-01-05 00:55:26 +0000",
       "potato": "2019-01-02 01:38:47 +0000",
+      "cooked_cod": "2019-01-05 01:29:33 +0000",
+      "rabbit": "2019-01-05 01:23:00 +0000",
+      "mutton": "2019-01-05 01:12:27 +0000",
       "bread": "2019-01-01 09:53:50 +0000",
+      "cookie": "2019-01-05 01:07:06 +0000",
+      "rotten_flesh": "2019-01-05 00:54:41 +0000",
+      "salmon": "2019-01-05 01:03:56 +0000",
+      "melon_slice": "2019-01-04 03:05:04 +0000",
+      "beetroot": "2019-01-05 01:04:41 +0000",
+      "cooked_rabbit": "2019-01-05 01:43:02 +0000",
       "cooked_chicken": "2019-01-02 02:24:45 +0000",
+      "mushroom_stew": "2019-01-05 01:54:56 +0000",
+      "cod": "2019-01-05 01:04:43 +0000",
+      "cooked_salmon": "2019-01-05 01:35:37 +0000",
       "carrot": "2019-01-02 01:40:05 +0000"
     },
     "done": false
@@ -442,6 +471,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2019-01-02 04:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-01-04 05:50:53 +0000"
     },
     "done": true
   },
@@ -478,6 +513,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2019-01-02 09:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2019-01-04 05:50:53 +0000"
     },
     "done": true
   },
@@ -836,6 +877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-01-04 06:58:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2019-01-01 06:52:23 +0000"
@@ -962,6 +1009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2019-01-04 05:50:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-01-01 08:49:22 +0000"
@@ -1059,6 +1112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2019-01-05 01:28:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-01-01 08:49:22 +0000"
@@ -1098,6 +1157,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2019-01-02 07:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2019-01-05 01:28:39 +0000"
     },
     "done": true
   },
@@ -1281,6 +1346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-01-04 05:50:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-01-01 07:24:35 +0000"
@@ -1302,6 +1373,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2019-01-01 08:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2019-01-04 06:23:55 +0000"
     },
     "done": true
   },
@@ -1533,6 +1610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2019-01-04 06:35:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2019-01-03 01:35:19 +0000"
@@ -1737,6 +1820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2019-01-04 05:50:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-01-01 07:24:34 +0000"
@@ -1835,11 +1924,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2019-01-04 06:30:09 +0000",
       "minecraft:cold_ocean": "2019-01-03 01:35:10 +0000",
       "minecraft:desert_hills": "2019-01-03 01:34:23 +0000",
+      "minecraft:deep_cold_ocean": "2019-01-04 06:32:59 +0000",
       "minecraft:desert": "2019-01-03 01:33:59 +0000",
+      "minecraft:jungle": "2019-01-04 06:30:12 +0000",
       "minecraft:savanna_plateau": "2019-01-01 06:34:19 +0000",
       "minecraft:beach": "2019-01-03 01:34:55 +0000",
+      "minecraft:lukewarm_ocean": "2019-01-04 06:58:04 +0000",
       "minecraft:river": "2019-01-01 07:15:57 +0000",
       "minecraft:wooded_hills": "2019-01-01 07:09:24 +0000",
       "minecraft:savanna": "2019-01-01 06:12:28 +0000",
@@ -1961,6 +2054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2019-01-04 05:50:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2019-01-01 07:09:26 +0000"
@@ -2021,6 +2120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2019-01-04 05:50:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2019-01-02 10:11:46 +0000"
@@ -2057,6 +2162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-01-04 05:50:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2019-01-02 05:36:31 +0000"
@@ -2090,6 +2201,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-01-02 07:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2019-01-05 01:00:27 +0000"
     },
     "done": true
   },

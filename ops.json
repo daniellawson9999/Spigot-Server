@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "95b82d0c-455a-4fed-ab35-d81528190294",
+    "name": "iWeHr",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "5f525425-4513-40b0-b045-eb3652127e95",
     "name": "hunted7fold",
     "level": 4,

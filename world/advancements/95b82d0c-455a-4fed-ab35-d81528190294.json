@@ -380,9 +380,11 @@
       "cooked_beef": "2019-01-02 07:56:43 +0000",
       "baked_potato": "2019-01-01 06:34:48 +0000",
       "apple": "2019-01-01 10:46:30 +0000",
+      "spider_eye": "2019-01-04 08:29:32 +0000",
       "poisonous_potato": "2019-01-01 09:27:42 +0000",
       "bread": "2019-01-01 08:00:36 +0000",
       "rotten_flesh": "2019-01-01 07:03:41 +0000",
+      "melon_slice": "2019-01-04 00:18:12 +0000",
       "carrot": "2019-01-01 10:25:31 +0000"
     },
     "done": false
@@ -591,9 +593,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2019-01-04 03:12:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-01-01 09:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-01-04 03:41:47 +0000"
     },
     "done": true
   },
@@ -891,8 +905,8 @@
       "minecraft:magma_cube": "2019-01-02 04:09:56 +0000",
       "minecraft:spider": "2019-01-01 07:04:13 +0000",
       "minecraft:zombie": "2019-01-01 07:03:32 +0000",
-      "minecraft:drowned": "2019-01-03 03:44:35 +0000",
       "minecraft:creeper": "2019-01-01 06:58:22 +0000",
+      "minecraft:drowned": "2019-01-03 03:44:35 +0000",
       "minecraft:zombie_villager": "2019-01-02 07:29:51 +0000",
       "minecraft:slime": "2019-01-03 00:35:22 +0000"
     },
@@ -955,6 +969,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2019-01-03 04:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2019-01-04 07:56:37 +0000"
     },
     "done": true
   },
@@ -1021,6 +1041,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2019-01-02 07:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-01-04 03:41:47 +0000"
     },
     "done": true
   },
@@ -1246,6 +1272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2019-01-04 07:58:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2019-01-01 07:23:06 +0000"
@@ -1321,6 +1353,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2019-01-03 00:31:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2019-01-04 00:20:00 +0000"
     },
     "done": true
   },
@@ -1590,10 +1628,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-01-03 04:04:53 +0000",
       "minecraft:cold_ocean": "2019-01-03 04:06:28 +0000",
-      "minecraft:mountains": "2019-01-03 03:39:33 +0000",
+      "minecraft:jungle_edge": "2019-01-03 04:04:53 +0000",
       "minecraft:forest": "2019-01-03 03:43:39 +0000",
+      "minecraft:mountains": "2019-01-03 03:39:33 +0000",
       "minecraft:desert_hills": "2019-01-03 03:19:39 +0000",
       "minecraft:desert": "2019-01-02 07:58:04 +0000",
       "minecraft:jungle": "2019-01-03 04:05:34 +0000",

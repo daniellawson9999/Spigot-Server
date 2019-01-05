@@ -1,293 +1,415 @@
-[00:35:58] [Server thread/INFO]: Sleepy_monky lost connection: Disconnected
-[00:35:58] [Server thread/INFO]: Sleepy_monky left the game
-[00:36:19] [User Authenticator #37/INFO]: UUID of player Sleepy_monky is 83e4e777-8df2-467d-b221-04a30edb6915
-[00:36:20] [Server thread/INFO]: Sleepy_monky[/70.113.150.16:57251] logged in with entity id 1072799 at ([world]-79.85704419670662, 139.0, 394.647467048937)
-[00:44:10] [User Authenticator #38/INFO]: UUID of player CyboVampire is 69fa6cfb-2e09-4764-9b1c-2bd17779272e
-[00:44:10] [Server thread/INFO]: CyboVampire[/76.19.149.191:57618] logged in with entity id 1076100 at ([world]-50.5, 68.0, 147.5)
-[00:48:24] [Async Chat Thread - #13/INFO]: <CyboVampire> hey guys, mobs can still spawn within your walls. You may need to increase lighting[m
-[00:48:32] [Async Chat Thread - #13/INFO]: <_ssquare> we know[m
-[00:48:33] [Async Chat Thread - #13/INFO]: <Sleepy_monky> thx![m
-[00:48:44] [Async Chat Thread - #13/INFO]: <CyboVampire> I almost died[m
-[00:51:06] [Server thread/INFO]: CyboVampire has made the advancement [Take Aim]
-[00:52:51] [Async Chat Thread - #14/INFO]: <CyboVampire> you guys planning on making a doorway in and out of the walls anytime soon?[m
-[00:53:01] [Async Chat Thread - #14/INFO]: <_ssquare> i was thinking about it[m
-[00:53:03] [Async Chat Thread - #14/INFO]: <Sleepy_monky> idk[m
-[00:53:14] [Async Chat Thread - #14/INFO]: <CyboVampire> I had to parkour my way in[m
-[00:53:30] [Async Chat Thread - #14/INFO]: <_ssquare> i just mine a hole and replace it when i need to come in[m
-[01:03:15] [Server thread/INFO]: Sleepy_monky has made the advancement [A Seedy Place]
-[01:04:04] [Server thread/INFO]: Sleepy_monky has made the advancement [The Parrots and the Bats]
-[01:10:19] [Server thread/INFO]: CyboVampire has made the advancement [Fishy Business]
-[01:15:14] [Server thread/INFO]: Sleepy_monky lost connection: Disconnected
-[01:15:14] [Server thread/INFO]: Sleepy_monky left the game
-[01:19:05] [Async Chat Thread - #15/INFO]: <CyboVampire> I just got gold from a drowned :D[m
-[01:19:12] [Async Chat Thread - #15/INFO]: <_ssquare> nice[m
-[01:29:57] [User Authenticator #39/INFO]: UUID of player Sleepy_monky is 83e4e777-8df2-467d-b221-04a30edb6915
-[01:29:57] [Server thread/INFO]: Sleepy_monky[/70.113.150.16:57575] logged in with entity id 1099115 at ([world]-164.41454721904097, 38.0, 217.30126736223593)
-[01:30:22] [Async Chat Thread - #16/INFO]: <CyboVampire> just wondering, why do you guys never sleep?[m
-[01:30:33] [Async Chat Thread - #16/INFO]: <Sleepy_monky> sleep is 4 the weeek[m
-[01:30:51] [Async Chat Thread - #16/INFO]: <CyboVampire> I don't want phantoms chasing me down[m
-[01:40:23] [Server thread/INFO]: _ssquare lost connection: Disconnected
-[01:40:23] [Server thread/INFO]: _ssquare left the game
-[01:40:25] [User Authenticator #40/INFO]: UUID of player _ssquare is 5eb12cb3-f965-4f57-9ea9-dd3e7d0b9c61
-[01:40:25] [Server thread/INFO]: _ssquare[/71.150.223.203:60424] logged in with entity id 1104336 at ([world]-174.45121285874166, 41.0, 218.67334286682947)
-[01:40:26] [Server thread/INFO]: The difficulty has been set to Hard
-[01:40:37] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
-[01:40:37] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
-[01:40:37] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
-[01:40:37] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
-[01:40:37] [Server thread/INFO]: [0;33;22mMineableSpawners: [0;37;1mAll commands for MineableSpawners[m
-[01:40:37] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/bossbar: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/data: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/datapack: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/experience: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/forceload: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/msg: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/publish: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/restart: [0;37;1mRestarts the server[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/spawner: [0;37;1m[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/spawnergive: [0;37;1m[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/spigot: [0;37;1mSpigot related commands[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/tag: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/team: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mManages Spigot Timings data to see performance of the server.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/tps: [0;37;1mGets the current ticks per second for the server[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/w: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
-[01:40:37] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
-[01:44:25] [Async Chat Thread - #17/INFO]: <_ssquare> oh yeah cybo we just changed it to hard mode[m
-[01:44:29] [Async Chat Thread - #17/INFO]: <_ssquare> so watch out[m
-[01:44:45] [Async Chat Thread - #17/INFO]: <CyboVampire> I'm fine, I just build a wall so nothing's getting in[m
-[01:45:18] [Async Chat Thread - #17/INFO]: <_ssquare> just letting you know so you don't get caught off guard[m
-[01:45:25] [Async Chat Thread - #17/INFO]: <CyboVampire> k thx[m
-[01:45:27] [Async Chat Thread - #17/INFO]: <_ssquare> mobs do more damage now[m
-[01:45:58] [Async Chat Thread - #17/INFO]: <CyboVampire> mobs do more damage, skeletons are more accurate, etc etc, I know[m
-[01:46:09] [Async Chat Thread - #17/INFO]: <_ssquare> kk[m
-[01:47:44] [Server thread/INFO]: Sleepy_monky was slain by Zombie
-[01:47:49] [Async Chat Thread - #18/INFO]: <CyboVampire> XD[m
-[01:47:53] [Async Chat Thread - #18/INFO]: <_ssquare> he's afk[m
-[01:49:00] [Server thread/INFO]: tardbucket was slain by Phantom
-[01:49:25] [Server thread/INFO]: _ssquare was slain by Phantom
-[01:50:59] [Server thread/INFO]: [Server] it's me, the spooky Phantom
-[01:51:17] [Server thread/INFO]: [0;31;1mUsage: /spigot reload[m
-[01:51:19] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[01:51:24] [Server thread/INFO]: [0;31;1mUsage: /spigot reload[m
-[01:51:27] [Server thread/INFO]: Saving the game (this may take a moment!)
-[01:51:27] [Server thread/INFO]: Saved the game
-[01:51:28] [Async Chat Thread - #19/INFO]: <CyboVampire> now I'm 100% safe :D[m
-[01:51:50] [Server thread/INFO]: The difficulty is Hard
-[01:52:01] [User Authenticator #41/INFO]: UUID of player hunted7fold is 5f525425-4513-40b0-b045-eb3652127e95
-[01:52:01] [Server thread/INFO]: hunted7fold[/99.9.21.129:63365] logged in with entity id 1110385 at ([world]-146.1491598518597, 64.0, 269.35224010094083)
-[01:52:39] [Server thread/INFO]: hunted7fold issued server command: /say I'm going to be changing the amount of ram in 5 minutes. Try to finish what you're doing in 5 minutes
-[01:52:39] [Server thread/INFO]: [hunted7fold] I'm going to be changing the amount of ram in 5 minutes. Try to finish what you're doing in 5 minutes
-[01:52:58] [Server thread/INFO]: hunted7fold issued server command: /lag
-[01:53:00] [Server thread/INFO]: hunted7fold issued server command: /lag
-[01:53:03] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[01:53:05] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[01:55:32] [Server thread/INFO]: hunted7fold has made the advancement [Into Fire]
-[01:57:51] [Server thread/INFO]: hunted7fold issued server command: /lag
-[01:57:57] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[01:57:59] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[01:58:01] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
-[01:58:01] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
-[01:58:01] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
-[01:58:01] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
-[01:58:01] [Server thread/INFO]: [0;33;22mMineableSpawners: [0;37;1mAll commands for MineableSpawners[m
-[01:58:01] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/bossbar: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/data: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/datapack: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/experience: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/forceload: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/msg: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/publish: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/restart: [0;37;1mRestarts the server[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/spawner: [0;37;1m[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/spawnergive: [0;37;1m[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/spigot: [0;37;1mSpigot related commands[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/tag: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/team: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mManages Spigot Timings data to see performance of the server.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/tps: [0;37;1mGets the current ticks per second for the server[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/w: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
-[01:58:01] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
-[02:00:01] [Async Chat Thread - #20/INFO]: <hunted7fold> try to finish what you're doing and log off, so I can change some server configuration[m
-[02:00:21] [Async Chat Thread - #20/INFO]: <CyboVampire> should we log off now?[m
-[02:00:24] [Async Chat Thread - #20/INFO]: <hunted7fold> yes[m
-[02:00:27] [Server thread/INFO]: CyboVampire lost connection: Disconnected
-[02:00:27] [Server thread/INFO]: CyboVampire left the game
-[02:00:46] [Server thread/INFO]: _ssquare lost connection: Disconnected
-[02:00:46] [Server thread/INFO]: _ssquare left the game
-[02:00:49] [Async Chat Thread - #20/INFO]: <hunted7fold> sleepy are you done?[m
-[02:01:05] [Server thread/INFO]: hunted7fold issued server command: /tp hunted7fold Sleepy_monky
-[02:01:05] [Server thread/INFO]: [hunted7fold: Teleported hunted7fold to Sleepy_monky]
-[02:01:10] [Async Chat Thread - #20/INFO]: <hunted7fold> sleepy[m
-[02:01:18] [Server thread/INFO]: Sleepy_monky lost connection: Disconnected
-[02:01:18] [Server thread/INFO]: Sleepy_monky left the game
-[02:02:30] [Server thread/INFO]: hunted7fold lost connection: Disconnected
-[02:02:30] [Server thread/INFO]: hunted7fold left the game
-[02:02:37] [Server thread/INFO]: Saving the game (this may take a moment!)
-[02:02:37] [Server thread/INFO]: Saved the game
-[02:04:00] [Server thread/INFO]: Saving the game (this may take a moment!)
-[02:04:00] [Server thread/INFO]: Saved the game
-[02:04:01] [Thread-3/INFO]: Stopping server
-[02:04:01] [Thread-3/INFO]: Saving players
-[02:04:01] [Thread-3/INFO]: tardbucket lost connection: Server closed
-[02:04:01] [Thread-3/INFO]: tardbucket left the game
-[02:04:01] [Server thread/ERROR]: Encountered an unexpected exception
-net.minecraft.server.v1_13_R2.ReportedException: Exception ticking world
-	at net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:962) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:417) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:830) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:728) [spigot.jar:git-Spigot-8ede039-d0a9130]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
-Caused by: java.util.ConcurrentModificationException
-	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:909) ~[?:1.8.0_191]
-	at java.util.ArrayList$Itr.next(ArrayList.java:859) ~[?:1.8.0_191]
-	at net.minecraft.server.v1_13_R2.PlayerChunkMap$1.computeNext(PlayerChunkMap.java:57) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at net.minecraft.server.v1_13_R2.PlayerChunkMap$1.computeNext(PlayerChunkMap.java:1) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at com.google.common.collect.AbstractIterator.tryToComputeNext(AbstractIterator.java:145) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at com.google.common.collect.AbstractIterator.hasNext(AbstractIterator.java:140) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at net.minecraft.server.v1_13_R2.WorldServer.n_(WorldServer.java:460) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at net.minecraft.server.v1_13_R2.WorldServer.doTick(WorldServer.java:287) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:951) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	... 4 more
-[02:04:01] [Server thread/ERROR]: 	Cause of unexpected exception was
-java.util.ConcurrentModificationException: null
-	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:909) ~[?:1.8.0_191]
-	at java.util.ArrayList$Itr.next(ArrayList.java:859) ~[?:1.8.0_191]
-	at net.minecraft.server.v1_13_R2.PlayerChunkMap$1.computeNext(PlayerChunkMap.java:57) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at net.minecraft.server.v1_13_R2.PlayerChunkMap$1.computeNext(PlayerChunkMap.java:1) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at com.google.common.collect.AbstractIterator.tryToComputeNext(AbstractIterator.java:145) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at com.google.common.collect.AbstractIterator.hasNext(AbstractIterator.java:140) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at net.minecraft.server.v1_13_R2.WorldServer.n_(WorldServer.java:460) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at net.minecraft.server.v1_13_R2.WorldServer.doTick(WorldServer.java:287) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:951) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:417) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:830) ~[spigot.jar:git-Spigot-8ede039-d0a9130]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:728) [spigot.jar:git-Spigot-8ede039-d0a9130]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
-[02:04:01] [Server thread/ERROR]: This crash report has been saved to: /home/ec2-user/Spigot-Server/./crash-reports/crash-2019-01-05_02.04.01-server.txt
-[02:04:01] [Thread-3/INFO]: Saving worlds
-[02:04:01] [Thread-3/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[02:04:01] [Thread-3/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[02:04:02] [Thread-3/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[02:33:18] [main/INFO]: Loaded 0 recipes
+[02:33:18] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[02:33:18] [Server thread/INFO]: Loading properties
+[02:33:18] [Server thread/INFO]: Default game type: SURVIVAL
+[02:33:19] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-8ede039-d0a9130 (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[02:33:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:33:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:33:19] [Server thread/INFO]: Debug logging is disabled
+[02:33:19] [Server thread/INFO]: Generating keypair
+[02:33:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:33:19] [Server thread/INFO]: Using epoll channel type
+[02:33:26] [Server thread/INFO]: [MineableSpawners] Loading MineableSpawners v1.4
+[02:33:26] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[02:33:26] [Server thread/INFO]: Preparing level "world"
+[02:33:26] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[02:33:27] [Server thread/INFO]: Loaded 524 recipes
+[02:33:28] [Server thread/INFO]: -------- World Settings For [world] --------
+[02:33:28] [Server thread/INFO]: Random Lighting Updates: false
+[02:33:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[02:33:28] [Server thread/INFO]: Max TNT Explosions: 100
+[02:33:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:33:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[02:33:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:33:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:33:28] [Server thread/INFO]: Mob Spawn Range: 6
+[02:33:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:33:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:33:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:33:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:33:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[02:33:28] [Server thread/INFO]: View Distance: 10
+[02:33:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:33:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:33:28] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[02:33:28] [Server thread/INFO]: Random Lighting Updates: false
+[02:33:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[02:33:28] [Server thread/INFO]: Max TNT Explosions: 100
+[02:33:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:33:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[02:33:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:33:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:33:28] [Server thread/INFO]: Mob Spawn Range: 6
+[02:33:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:33:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:33:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:33:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:33:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[02:33:28] [Server thread/INFO]: View Distance: 10
+[02:33:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:33:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:33:28] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[02:33:28] [Server thread/INFO]: Random Lighting Updates: false
+[02:33:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[02:33:28] [Server thread/INFO]: Max TNT Explosions: 100
+[02:33:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:33:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:33:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[02:33:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:33:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:33:28] [Server thread/INFO]: Mob Spawn Range: 6
+[02:33:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:33:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:33:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:33:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:33:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[02:33:28] [Server thread/INFO]: View Distance: 10
+[02:33:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:33:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:33:28] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: 451765645521189810)
+[02:33:29] [Server thread/INFO]: Preparing spawn area: 4%
+[02:33:29] [Server thread/INFO]: Preparing spawn area: 8%
+[02:33:29] [Server thread/INFO]: Preparing spawn area: 12%
+[02:33:29] [Server thread/INFO]: Preparing spawn area: 16%
+[02:33:29] [Server thread/INFO]: Preparing spawn area: 20%
+[02:33:29] [Server thread/INFO]: Preparing spawn area: 24%
+[02:33:30] [Server thread/INFO]: Preparing spawn area: 28%
+[02:33:30] [Server thread/INFO]: Preparing spawn area: 32%
+[02:33:30] [Server thread/INFO]: Preparing spawn area: 36%
+[02:33:30] [Server thread/INFO]: Preparing spawn area: 40%
+[02:33:30] [Server thread/INFO]: Preparing spawn area: 44%
+[02:33:31] [Server thread/INFO]: Preparing spawn area: 48%
+[02:33:31] [Server thread/INFO]: Preparing spawn area: 52%
+[02:33:31] [Server thread/INFO]: Preparing spawn area: 56%
+[02:33:31] [Server thread/INFO]: Preparing spawn area: 60%
+[02:33:31] [Server thread/INFO]: Preparing spawn area: 64%
+[02:33:31] [Server thread/INFO]: Preparing spawn area: 68%
+[02:33:31] [Server thread/INFO]: Preparing spawn area: 72%
+[02:33:32] [Server thread/INFO]: Preparing spawn area: 76%
+[02:33:32] [Server thread/INFO]: Preparing spawn area: 80%
+[02:33:32] [Server thread/INFO]: Preparing spawn area: 84%
+[02:33:32] [Server thread/INFO]: Preparing spawn area: 88%
+[02:33:32] [Server thread/INFO]: Preparing spawn area: 92%
+[02:33:32] [Server thread/INFO]: Preparing spawn area: 96%
+[02:33:32] [Server thread/INFO]: Preparing spawn area: 100%
+[02:33:32] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: 2552357326589440985)
+[02:33:32] [Server thread/INFO]: Preparing spawn area: 4%
+[02:33:32] [Server thread/INFO]: Preparing spawn area: 8%
+[02:33:33] [Server thread/INFO]: Preparing spawn area: 12%
+[02:33:33] [Server thread/INFO]: Preparing spawn area: 16%
+[02:33:33] [Server thread/INFO]: Preparing spawn area: 20%
+[02:33:33] [Server thread/INFO]: Preparing spawn area: 24%
+[02:33:33] [Server thread/INFO]: Preparing spawn area: 28%
+[02:33:33] [Server thread/INFO]: Preparing spawn area: 32%
+[02:33:33] [Server thread/INFO]: Preparing spawn area: 36%
+[02:33:34] [Server thread/INFO]: Preparing spawn area: 40%
+[02:33:34] [Server thread/INFO]: Preparing spawn area: 44%
+[02:33:34] [Server thread/INFO]: Preparing spawn area: 48%
+[02:33:34] [Server thread/INFO]: Preparing spawn area: 52%
+[02:33:34] [Server thread/INFO]: Preparing spawn area: 56%
+[02:33:34] [Server thread/INFO]: Preparing spawn area: 60%
+[02:33:35] [Server thread/INFO]: Preparing spawn area: 64%
+[02:33:35] [Server thread/INFO]: Preparing spawn area: 68%
+[02:33:35] [Server thread/INFO]: Preparing spawn area: 72%
+[02:33:35] [Server thread/INFO]: Preparing spawn area: 76%
+[02:33:35] [Server thread/INFO]: Preparing spawn area: 80%
+[02:33:35] [Server thread/INFO]: Preparing spawn area: 84%
+[02:33:35] [Server thread/INFO]: Preparing spawn area: 88%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 92%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 96%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 100%
+[02:33:36] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: 2552357326589440985)
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 4%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 8%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 12%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 16%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 20%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 24%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 28%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 32%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 36%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 40%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 44%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 48%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 52%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 56%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 60%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 64%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 68%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 72%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 76%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 80%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 84%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 88%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 92%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 96%
+[02:33:36] [Server thread/INFO]: Preparing spawn area: 100%
+[02:33:36] [Server thread/INFO]: Time elapsed: 8326 ms
+[02:33:36] [Server thread/INFO]: [MineableSpawners] Enabling MineableSpawners v1.4
+[02:33:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:33:36] [Server thread/INFO]: Done (10.746s)! For help, type "help"
+[02:33:41] [Server thread/INFO]: The difficulty is Hard
+[02:33:45] [User Authenticator #1/INFO]: UUID of player Sleepy_monky is 83e4e777-8df2-467d-b221-04a30edb6915
+[02:33:46] [Server thread/INFO]: Sleepy_monky[/70.113.150.16:57908] logged in with entity id 480 at ([world]-169.7186305109381, 41.0, 226.44089523916531)
+[02:33:50] [User Authenticator #2/INFO]: UUID of player hunted7fold is 5f525425-4513-40b0-b045-eb3652127e95
+[02:33:51] [Server thread/INFO]: hunted7fold[/99.9.21.129:63989] logged in with entity id 496 at ([world]-93.07118348069534, 91.0, 264.1804695469563)
+[02:33:55] [Async Chat Thread - #0/INFO]: <hunted7fold> \[m
+[02:33:58] [User Authenticator #3/INFO]: UUID of player CyboVampire is 69fa6cfb-2e09-4764-9b1c-2bd17779272e
+[02:33:59] [Server thread/INFO]: CyboVampire[/76.19.149.191:58206] logged in with entity id 506 at ([world]-300.5130732760642, 70.9375, 260.4756734762394)
+[02:34:11] [Async Chat Thread - #0/INFO]: <hunted7fold> sorry, was permantely setting the difficulty as hard[m
+[02:34:27] [Async Chat Thread - #0/INFO]: <Sleepy_monky> it's better[m
+[02:37:35] [Server thread/INFO]: CyboVampire has made the advancement [What a Deal!]
+[02:44:24] [User Authenticator #4/INFO]: Disconnecting /75.17.243.87:52816: Failed to verify username!
+[02:44:24] [User Authenticator #4/ERROR]: Username 'iWeHr' tried to join with an invalid session
+[02:44:24] [Server thread/INFO]: /75.17.243.87:52816 lost connection: Failed to verify username!
+[02:44:32] [User Authenticator #5/INFO]: Disconnecting /75.17.243.87:52824: Failed to verify username!
+[02:44:32] [User Authenticator #5/ERROR]: Username 'iWeHr' tried to join with an invalid session
+[02:44:32] [Server thread/INFO]: /75.17.243.87:52824 lost connection: Failed to verify username!
+[02:45:01] [Server thread/INFO]: hunted7fold issued server command: /list whitelist
+[02:45:05] [Server thread/INFO]: hunted7fold issued server command: /whitelist
+[02:45:09] [Server thread/INFO]: hunted7fold issued server command: /whitelist list
+[02:45:24] [User Authenticator #6/INFO]: Disconnecting /75.17.243.87:52940: Failed to verify username!
+[02:45:24] [User Authenticator #6/ERROR]: Username 'iWeHr' tried to join with an invalid session
+[02:45:24] [Server thread/INFO]: /75.17.243.87:52940 lost connection: Failed to verify username!
+[02:45:29] [User Authenticator #7/INFO]: Disconnecting /75.17.243.87:52942: Failed to verify username!
+[02:45:29] [User Authenticator #7/ERROR]: Username 'iWeHr' tried to join with an invalid session
+[02:45:29] [Server thread/INFO]: /75.17.243.87:52942 lost connection: Failed to verify username!
+[02:45:40] [Server thread/INFO]: hunted7fold issued server command: /whitelist lsit
+[02:46:26] [User Authenticator #8/INFO]: UUID of player ItBLkeThtSomtims is 95b82d0c-455a-4fed-ab35-d81528190294
+[02:46:27] [Server thread/INFO]: ItBLkeThtSomtims[/75.17.243.87:53066] logged in with entity id 6581 at ([world]-149.5344519593614, 68.5, 250.82975119976186)
+[02:46:32] [Async Chat Thread - #1/INFO]: <hunted7fold> test[m
+[02:46:35] [Async Chat Thread - #1/INFO]: <ItBLkeThtSomtims> test[m
+[02:46:37] [Server thread/INFO]: hunted7fold issued server command: /whitelist list
+[02:46:41] [Server thread/INFO]: ItBLkeThtSomtims issued server command: /whitelist
+[02:46:57] [Server thread/INFO]: hunted7fold issued server command: /whitelist add ItBLkeThtSomtims
+[02:46:58] [Server thread/INFO]: ItBLkeThtSomtims issued server command: /whitelist ItBLkeThtSomtims
+[02:47:26] [Async Chat Thread - #1/INFO]: <CyboVampire> to the player with terrible aim leaving flaming arrows all over the ground, thanks for the free arrows[m
+[02:49:16] [Async Chat Thread - #2/INFO]: <hunted7fold> cybo you can build in the town btw[m
+[02:49:20] [Server thread/INFO]: CyboVampire has made the advancement [The Parrots and the Bats]
+[02:49:20] [Async Chat Thread - #2/INFO]: <ItBLkeThtSomtims> cybo, you can build in our town btw[m
+[02:49:46] [Async Chat Thread - #2/INFO]: <CyboVampire> I know, I just wanna be a hermit and instead live in the dangers outside[m
+[02:49:53] [Async Chat Thread - #2/INFO]: <Sleepy_monky> lol[m
+[02:51:00] [Server thread/INFO]: hunted7fold has made the advancement [Ice Bucket Challenge]
+[02:54:16] [Server thread/INFO]: CyboVampire has made the advancement [We Need to Go Deeper]
+[02:58:18] [Async Chat Thread - #3/INFO]: <CyboVampire> I cleaned this place up :D[m
+[02:58:28] [Async Chat Thread - #3/INFO]: <Sleepy_monky> thx![m
+[02:58:43] [Async Chat Thread - #3/INFO]: <ItBLkeThtSomtims> -15, 83, 23[m
+[03:00:04] [Async Chat Thread - #4/INFO]: <hunted7fold> I got lost[m
+[03:00:10] [Async Chat Thread - #4/INFO]: <CyboVampire> y shoot me?[m
+[03:00:18] [Async Chat Thread - #4/INFO]: <hunted7fold> I was just shooting next to you[m
+[03:00:22] [Async Chat Thread - #4/INFO]: <hunted7fold> surprise[m
+[03:03:09] [Server thread/INFO]: CyboVampire fell from a high place
+[03:03:17] [Async Chat Thread - #5/INFO]: <Sleepy_monky> oof[m
+[03:03:18] [Async Chat Thread - #5/INFO]: <hunted7fold> rip[m
+[03:03:24] [Async Chat Thread - #5/INFO]: <hunted7fold> i'll watch your stuff[m
+[03:03:31] [Async Chat Thread - #5/INFO]: <CyboVampire> thx[m
+[03:03:41] [Async Chat Thread - #5/INFO]: <hunted7fold> tell me if you can't get back in time and I shoudl pick up[m
+[03:04:26] [Async Chat Thread - #5/INFO]: <hunted7fold> you good?[m
+[03:04:29] [Async Chat Thread - #5/INFO]: <CyboVampire> ye[m
+[03:11:40] [Async Chat Thread - #6/INFO]: <CyboVampire> wish we has horses[m
+[03:11:46] [Async Chat Thread - #6/INFO]: <ItBLkeThtSomtims> we ran into a few[m
+[03:11:56] [Async Chat Thread - #6/INFO]: <ItBLkeThtSomtims> head south[m
+[03:11:56] [Async Chat Thread - #6/INFO]: <hunted7fold> next time I find some I'm going to bring them to the villllage[m
+[03:11:58] [Async Chat Thread - #6/INFO]: <ItBLkeThtSomtims> there are some there[m
+[03:12:08] [Async Chat Thread - #6/INFO]: <ItBLkeThtSomtims> south or north[m
+[03:12:16] [Async Chat Thread - #6/INFO]: <CyboVampire> just bring 2 then you can breed them[m
+[03:13:38] [Async Chat Thread - #7/INFO]: <CyboVampire> yall got saddles?[m
+[03:13:43] [Async Chat Thread - #7/INFO]: <hunted7fold> I have one[m
+[03:13:48] [Async Chat Thread - #7/INFO]: <hunted7fold> I think we have another in the hosue[m
+[03:13:51] [Async Chat Thread - #7/INFO]: <ItBLkeThtSomtims> oh do we[m
+[03:13:52] [Async Chat Thread - #7/INFO]: <hunted7fold> hosue[m
+[03:13:54] [Async Chat Thread - #7/INFO]: <ItBLkeThtSomtims> we got tons[m
+[03:13:56] [Async Chat Thread - #7/INFO]: <hunted7fold> husoeu[m
+[03:13:59] [Async Chat Thread - #7/INFO]: <hunted7fold> house[m
+[03:14:16] [Async Chat Thread - #7/INFO]: <CyboVampire> also, which way is south?[m
+[03:14:20] [Async Chat Thread - #7/INFO]: <hunted7fold> f3[m
+[03:14:26] [Async Chat Thread - #7/INFO]: <Sleepy_monky> press f3[m
+[03:14:32] [Async Chat Thread - #7/INFO]: <ItBLkeThtSomtims> towards the giant mountain[m
+[03:14:45] [Async Chat Thread - #7/INFO]: <ItBLkeThtSomtims> with respect to your house[m
+[03:14:53] [Async Chat Thread - #7/INFO]: <CyboVampire> thx[m
+[03:16:33] [Async Chat Thread - #8/INFO]: <ItBLkeThtSomtims> dudududududududududududu[m
+[03:17:03] [Async Chat Thread - #8/INFO]: <ItBLkeThtSomtims> dudududududududududu[m
+[03:21:32] [Async Chat Thread - #9/INFO]: <CyboVampire> you farming obsidion or something?[m
+[03:21:35] [Async Chat Thread - #9/INFO]: <ItBLkeThtSomtims> ye[m
+[03:21:41] [Async Chat Thread - #9/INFO]: <ItBLkeThtSomtims> making an obsidian wall[m
+[03:21:46] [Async Chat Thread - #9/INFO]: <ItBLkeThtSomtims> anti creeper[m
+[03:22:15] [User Authenticator #9/INFO]: UUID of player _ssquare is 5eb12cb3-f965-4f57-9ea9-dd3e7d0b9c61
+[03:22:16] [Server thread/INFO]: _ssquare[/71.150.223.203:62190] logged in with entity id 18988 at ([world]-84.57402872539188, 134.0, 390.69999998807907)
+[03:22:39] [Server thread/INFO]: CyboVampire has made the advancement [Enchanter]
+[03:26:05] [Async Chat Thread - #10/INFO]: <hunted7fold> sorry[m
+[03:26:45] [Async Chat Thread - #10/INFO]: <ItBLkeThtSomtims> cybo, are you looking for something[m
+[03:26:58] [Async Chat Thread - #10/INFO]: <CyboVampire> a guy can't fish?[m
+[03:27:18] [Async Chat Thread - #10/INFO]: <ItBLkeThtSomtims> we can, but we have plenty of food[m
+[03:33:08] [Async Chat Thread - #11/INFO]: <CyboVampire> maybe before you finish the wall, you should make a gateway in so that you don't have to mine one out later[m
+[03:33:13] [Async Chat Thread - #11/INFO]: <ItBLkeThtSomtims> yeah[m
+[03:33:16] [Async Chat Thread - #11/INFO]: <ItBLkeThtSomtims> thats what we plan to do[m
+[03:34:39] [Server thread/INFO]: ItBLkeThtSomtims lost connection: Disconnected
+[03:34:39] [Server thread/INFO]: ItBLkeThtSomtims left the game
+[03:34:47] [Server thread/INFO]: hunted7fold lost connection: Disconnected
+[03:34:47] [Server thread/INFO]: hunted7fold left the game
+[03:35:47] [User Authenticator #10/INFO]: UUID of player ItBLkeThtSomtims is 95b82d0c-455a-4fed-ab35-d81528190294
+[03:35:47] [Server thread/INFO]: ItBLkeThtSomtims[/75.17.243.87:53310] logged in with entity id 24494 at ([world]-145.6733775496335, 64.0, 268.77637995585155)
+[03:40:46] [Server thread/INFO]: ItBLkeThtSomtims issued server command: /whitelist add Rebosh16
+[03:40:46] [Server thread/INFO]: [ItBLkeThtSomtims: Added Rebosh16 to the whitelist]
+[03:41:09] [Server thread/INFO]: ItBLkeThtSomtims lost connection: Disconnected
+[03:41:09] [Server thread/INFO]: ItBLkeThtSomtims left the game
+[03:41:22] [User Authenticator #11/INFO]: UUID of player ItBLkeThtSomtims is 95b82d0c-455a-4fed-ab35-d81528190294
+[03:41:22] [Server thread/INFO]: ItBLkeThtSomtims[/75.17.243.87:53340] logged in with entity id 27160 at ([world]-147.30000001192096, 67.0, 193.52821684432126)
+[03:41:30] [User Authenticator #12/INFO]: UUID of player Rebosh16 is 5bf93aff-1c15-4d97-bc66-9c43cf2e2031
+[03:41:30] [Server thread/INFO]: Rebosh16[/108.82.255.204:59003] logged in with entity id 27195 at ([world]-125.5, 67.0, 171.5)
+[03:45:28] [User Authenticator #13/INFO]: UUID of player tardbucket is b7bcbd80-2579-482c-a1c1-2415878b1ac7
+[03:45:28] [Server thread/INFO]: tardbucket[/68.248.210.15:51876] logged in with entity id 28698 at ([world]-173.30000001192093, 67.0, 216.30000001192093)
+[03:45:43] [Server thread/INFO]: Rebosh16 has made the advancement [Monster Hunter]
+[03:45:44] [Server thread/INFO]: Rebosh16 has made the advancement [Into Fire]
+[03:45:52] [Server thread/INFO]: _ssquare lost connection: Disconnected
+[03:45:52] [Server thread/INFO]: _ssquare left the game
+[03:46:03] [Server thread/INFO]: Rebosh16 has made the advancement [Suit Up]
+[03:46:09] [User Authenticator #14/INFO]: UUID of player hunted7fold is 5f525425-4513-40b0-b045-eb3652127e95
+[03:46:10] [Server thread/INFO]: hunted7fold[/99.9.21.129:55581] logged in with entity id 28972 at ([world]-155.8110601935313, 64.0, 260.67015540394436)
+[03:50:57] [Server thread/INFO]: Rebosh16 issued server command: /nick
+[03:51:00] [Server thread/INFO]: Rebosh16 issued server command: /nickname
+[03:51:00] [Server thread/INFO]: hunted7fold issued server command: /nickname
+[03:51:02] [Server thread/INFO]: hunted7fold issued server command: /help
+[03:51:04] [Server thread/INFO]: hunted7fold issued server command: /nick
+[03:51:06] [Server thread/INFO]: hunted7fold issued server command: /nicknm
+[03:51:21] [Async Chat Thread - #12/INFO]: <hunted7fold> everyone in the server[m
+[03:51:26] [Async Chat Thread - #12/INFO]: <CyboVampire> yes[m
+[03:51:28] [Async Chat Thread - #12/INFO]: <hunted7fold> type 1 if you want alex as op[m
+[03:51:31] [Async Chat Thread - #12/INFO]: <hunted7fold> 0 if you don't[m
+[03:51:31] [Async Chat Thread - #12/INFO]: <tardbucket> 1[m
+[03:51:31] [Async Chat Thread - #12/INFO]: <ItBLkeThtSomtims> 0[m
+[03:51:39] [Async Chat Thread - #12/INFO]: <Sleepy_monky> 0[m
+[03:51:43] [Async Chat Thread - #12/INFO]: <ItBLkeThtSomtims> 6[m
+[03:51:46] [Async Chat Thread - #12/INFO]: <Rebosh16> -5[m
+[03:51:54] [Async Chat Thread - #12/INFO]: <Rebosh16> F[m
+[03:52:00] [Async Chat Thread - #12/INFO]: <ItBLkeThtSomtims> 3F[m
+[03:52:09] [Async Chat Thread - #12/INFO]: <Sleepy_monky> 3F[m
+[03:52:38] [Server thread/INFO]: Rebosh16 has made the advancement [Diamonds!]
+[03:52:51] [Async Chat Thread - #12/INFO]: <hunted7fold> who should be a second op[m
+[03:52:54] [Async Chat Thread - #12/INFO]: <Rebosh16> me[m
+[03:52:55] [Async Chat Thread - #12/INFO]: <hunted7fold> nominate a second op[m
+[03:52:58] [Async Chat Thread - #12/INFO]: <CyboVampire> 不[m
+[03:53:32] [Async Chat Thread - #12/INFO]: <Rebosh16> Op me senpai UwU[m
+[03:53:35] [Async Chat Thread - #12/INFO]: <CyboVampire> I FISHED A SADDLE[m
+[03:54:07] [Server thread/INFO]: hunted7fold issued server command: /op _ssquare
+[03:54:07] [Server thread/INFO]: [hunted7fold: Made _ssquare a server operator]
+[03:54:22] [Async Chat Thread - #12/INFO]: <hunted7fold> ssquare is an op[m
+[03:54:40] [Server thread/INFO]: hunted7fold issued server command: /help
+[03:54:43] [Server thread/INFO]: hunted7fold issued server command: /help 2
+[03:54:44] [Server thread/INFO]: hunted7fold issued server command: /help 3
+[03:54:46] [Server thread/INFO]: hunted7fold issued server command: /help 4
+[03:55:14] [Server thread/INFO]: hunted7fold issued server command: /nick
+[03:55:17] [Server thread/INFO]: hunted7fold issued server command: /nick hunted7fold f
+[03:55:28] [Server thread/INFO]: hunted7fold issued server command: /help 4
+[03:55:30] [Server thread/INFO]: Rebosh16 issued server command: /msg ItBLkeThtSomtims tp to him
+[03:55:30] [Server thread/INFO]: hunted7fold issued server command: /help 4
+[03:55:32] [Server thread/INFO]: hunted7fold issued server command: /help 5
+[03:55:36] [Server thread/INFO]: hunted7fold issued server command: /help 6
+[03:55:39] [Server thread/INFO]: hunted7fold issued server command: /help 7
+[03:55:43] [Server thread/INFO]: hunted7fold issued server command: /help 8
+[03:55:46] [Server thread/INFO]: hunted7fold issued server command: /help 9
+[03:55:48] [Server thread/INFO]: hunted7fold issued server command: /help 10
+[03:55:55] [Server thread/INFO]: hunted7fold issued server command: /help 11
+[03:56:00] [Async Chat Thread - #13/INFO]: <hunted7fold> cybo[m
+[03:56:03] [Async Chat Thread - #13/INFO]: <CyboVampire> ?[m
+[03:56:08] [Async Chat Thread - #13/INFO]: <hunted7fold> why don't you want to join the discord[m
+[03:56:15] [Async Chat Thread - #13/INFO]: <CyboVampire> what discord?[m
+[03:56:15] [Async Chat Thread - #13/INFO]: <hunted7fold> we are friendly people[m
+[03:56:28] [Async Chat Thread - #13/INFO]: <hunted7fold> we talk in discord while playing on the server[m
+[03:56:36] [Async Chat Thread - #13/INFO]: <CyboVampire> I don't have an invite link[m
+[03:56:38] [Async Chat Thread - #13/INFO]: <hunted7fold> do you want to join the voice chat?[m
+[03:56:42] [Async Chat Thread - #13/INFO]: <CyboVampire> sure[m
+[03:56:48] [Async Chat Thread - #13/INFO]: <hunted7fold> use this:[m
+[03:56:49] [Async Chat Thread - #13/INFO]: <hunted7fold> https://discord.gg/5xbuZ3[m
+[03:57:21] [Server thread/INFO]: Rebosh16 has made the advancement [Sweet Dreams]
+[03:57:58] [Async Chat Thread - #14/INFO]: <hunted7fold> did it work??[m
+[03:58:02] [Async Chat Thread - #14/INFO]: <CyboVampire> yes[m
+[04:00:31] [Server thread/INFO]: hunted7fold lost connection: Disconnected
+[04:00:31] [Server thread/INFO]: hunted7fold left the game
+[04:01:03] [Server thread/INFO]: Rebosh16 was shot by Skeleton
+[04:02:51] [Async Chat Thread - #15/INFO]: <ItBLkeThtSomtims> im sorry[m
+[04:02:54] [Async Chat Thread - #15/INFO]: <Sleepy_monky> was that u cybo[m
+[04:02:57] [Async Chat Thread - #15/INFO]: <ItBLkeThtSomtims> i didnt mean to be weird[m
+[04:02:59] [Async Chat Thread - #15/INFO]: <CyboVampire> yes[m
+[04:03:01] [Async Chat Thread - #15/INFO]: <ItBLkeThtSomtims> it just kinda happens[m
+[04:03:05] [Async Chat Thread - #15/INFO]: <CyboVampire> I don't have a microphone[m
+[04:03:11] [Async Chat Thread - #15/INFO]: <ItBLkeThtSomtims> itjustblkethatsomtims[m
+[04:04:27] [Server thread/INFO]: CyboVampire has made the advancement [Not Today, Thank You]
+[04:05:34] [Async Chat Thread - #16/INFO]: <CyboVampire> holy sh*t, I ran into my home with 1 heart and I find a skeleton in my house[m
+[04:05:43] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> cursing is ok[m
+[04:05:47] [Async Chat Thread - #16/INFO]: <Rebosh16> HE SAID A BAD WORD[m
+[04:05:51] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> this server is 100% christian[m
+[04:05:54] [Async Chat Thread - #16/INFO]: <Rebosh16> ban him[m
+[04:06:13] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> \ban cybovampire[m
+[04:06:25] [Async Chat Thread - #16/INFO]: <CyboVampire> wut[m
+[04:06:31] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> its a forward slash[m
+[04:06:31] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> xd[m
+[04:06:38] [Async Chat Thread - #16/INFO]: <Sleepy_monky> oh wrong slash[m
+[04:06:56] [Async Chat Thread - #16/INFO]: <Sleepy_monky> get it right next time[m
+[04:07:01] [Async Chat Thread - #16/INFO]: <CyboVampire> y ban me>[m
+[04:07:06] [Async Chat Thread - #16/INFO]: <CyboVampire> ?[m
+[04:07:07] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> we arent[m
+[04:07:09] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> it was joke[m
+[04:07:11] [Async Chat Thread - #16/INFO]: <Rebosh16> no[m
+[04:07:13] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> sleepy is being a bully[m
+[04:07:13] [Async Chat Thread - #16/INFO]: <Rebosh16> he cursed[m
+[04:07:15] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> i should ban him[m
+[04:07:18] [Async Chat Thread - #16/INFO]: <Rebosh16> he saida bad fucking word[m
+[04:07:22] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> \ban Sleepy_monky[m
+[04:07:53] [Async Chat Thread - #16/INFO]: <CyboVampire> should I join your discord call just so that I don't have to use in game chat?[m
+[04:08:02] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> up 2 u m8[m
+[04:08:04] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> we sent you th[m
+[04:11:26] [Server thread/WARN]: CyboVampire moved too quickly! 10.222054993121617,-0.2522033402537289,-0.37549912783379114
+[04:11:43] [Server thread/INFO]: Rebosh16 has made the advancement [Ice Bucket Challenge]
+[04:12:08] [Server thread/WARN]: CyboVampire moved too quickly! 5.182977945020156,-7.0,-4.964731136438843
+[04:12:15] [Async Chat Thread - #17/INFO]: <Rebosh16> I want to be sans[m
+[04:12:19] [Async Chat Thread - #17/INFO]: <ItBLkeThtSomtims> no[m
+[04:28:53] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[04:28:59] [Spigot Watchdog Thread/ERROR]: The server has stopped responding! This is (probably) not a Spigot bug.
+[04:29:01] [Spigot Watchdog Thread/ERROR]: If you see a plugin in the Server thread dump below, then please report it to that author
+[04:29:03] [Spigot Watchdog Thread/ERROR]: 	 *Especially* if it looks like HTTP or MySQL operations are occurring
+[04:29:04] [Spigot Watchdog Thread/ERROR]: If you see a world save or edit, then it means you did far more than your server can handle at once
+[04:29:05] [Spigot Watchdog Thread/ERROR]: 	 If this is the case, consider increasing timeout-time in spigot.yml but note that this will replace the crash with LARGE lag spikes
+[04:29:07] [Spigot Watchdog Thread/ERROR]: If you are unsure or still think this is a Spigot bug, please report to https://www.spigotmc.org/
+[04:29:08] [Spigot Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[04:29:36] [Spigot Watchdog Thread/ERROR]: Spigot version: git-Spigot-8ede039-d0a9130 (MC: 1.13.2)
+[04:31:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[04:31:42] [Spigot Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Spigot!):

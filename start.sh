@@ -1,3 +1,3 @@
 #!/bin/sh
 
-java -Xms3G -Xmx3G -XX:+UseConcMarkSweepGC -jar spigot.jar
+java -Xms1900M -Xmx1900M -XX:+UseConcMarkSweepGC -jar spigot.jar

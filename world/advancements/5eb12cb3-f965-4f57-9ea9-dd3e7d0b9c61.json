@@ -1045,13 +1045,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-01-01 07:14:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-01-01 07:14:48 +0000"
     },
@@ -1089,8 +1089,8 @@
       "minecraft:magma_cube": "2019-01-02 04:13:48 +0000",
       "minecraft:spider": "2019-01-01 07:05:04 +0000",
       "minecraft:zombie": "2019-01-01 07:04:08 +0000",
-      "minecraft:creeper": "2019-01-01 06:58:19 +0000",
-      "minecraft:drowned": "2019-01-01 10:36:36 +0000"
+      "minecraft:drowned": "2019-01-01 10:36:36 +0000",
+      "minecraft:creeper": "2019-01-01 06:58:19 +0000"
     },
     "done": false
   },
@@ -1924,16 +1924,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-01-04 06:30:09 +0000",
       "minecraft:cold_ocean": "2019-01-03 01:35:10 +0000",
+      "minecraft:jungle_edge": "2019-01-04 06:30:09 +0000",
       "minecraft:desert_hills": "2019-01-03 01:34:23 +0000",
       "minecraft:deep_cold_ocean": "2019-01-04 06:32:59 +0000",
       "minecraft:desert": "2019-01-03 01:33:59 +0000",
       "minecraft:jungle": "2019-01-04 06:30:12 +0000",
       "minecraft:savanna_plateau": "2019-01-01 06:34:19 +0000",
       "minecraft:beach": "2019-01-03 01:34:55 +0000",
-      "minecraft:lukewarm_ocean": "2019-01-04 06:58:04 +0000",
       "minecraft:river": "2019-01-01 07:15:57 +0000",
+      "minecraft:lukewarm_ocean": "2019-01-04 06:58:04 +0000",
       "minecraft:wooded_hills": "2019-01-01 07:09:24 +0000",
       "minecraft:savanna": "2019-01-01 06:12:28 +0000",
       "minecraft:plains": "2019-01-01 06:12:32 +0000"

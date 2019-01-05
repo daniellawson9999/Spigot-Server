@@ -10,5 +10,11 @@
     "name": "hunted7fold",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5eb12cb3-f965-4f57-9ea9-dd3e7d0b9c61",
+    "name": "_ssquare",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

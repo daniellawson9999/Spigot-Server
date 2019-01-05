@@ -804,6 +804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2019-01-05 07:24:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2019-01-03 02:10:38 +0000"
@@ -1482,6 +1488,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2019-01-05 06:39:56 +0000",
       "cooked_mutton": "2019-01-01 07:09:11 +0000",
       "cooked_beef": "2019-01-01 08:02:38 +0000",
       "baked_potato": "2019-01-01 10:05:51 +0000",
@@ -1508,6 +1515,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2019-01-04 07:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-01-05 07:31:37 +0000"
     },
     "done": true
   },

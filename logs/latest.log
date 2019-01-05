@@ -1,415 +1,537 @@
-[02:33:18] [main/INFO]: Loaded 0 recipes
-[02:33:18] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[02:33:18] [Server thread/INFO]: Loading properties
-[02:33:18] [Server thread/INFO]: Default game type: SURVIVAL
-[02:33:19] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-8ede039-d0a9130 (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
-[02:33:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:33:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:33:19] [Server thread/INFO]: Debug logging is disabled
-[02:33:19] [Server thread/INFO]: Generating keypair
-[02:33:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:33:19] [Server thread/INFO]: Using epoll channel type
-[02:33:26] [Server thread/INFO]: [MineableSpawners] Loading MineableSpawners v1.4
-[02:33:26] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[02:33:26] [Server thread/INFO]: Preparing level "world"
-[02:33:26] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[02:33:27] [Server thread/INFO]: Loaded 524 recipes
-[02:33:28] [Server thread/INFO]: -------- World Settings For [world] --------
-[02:33:28] [Server thread/INFO]: Random Lighting Updates: false
-[02:33:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[02:33:28] [Server thread/INFO]: Max TNT Explosions: 100
-[02:33:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[02:33:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Cane Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Melon Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Potato Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Vine Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[02:33:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[02:33:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[02:33:28] [Server thread/INFO]: Mob Spawn Range: 6
-[02:33:28] [Server thread/INFO]: Experience Merge Radius: 3.0
-[02:33:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[02:33:28] [Server thread/INFO]: Item Despawn Rate: 6000
-[02:33:28] [Server thread/INFO]: Item Merge Radius: 2.5
-[02:33:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[02:33:28] [Server thread/INFO]: View Distance: 10
-[02:33:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[02:33:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[02:33:28] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[02:33:28] [Server thread/INFO]: Random Lighting Updates: false
-[02:33:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[02:33:28] [Server thread/INFO]: Max TNT Explosions: 100
-[02:33:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[02:33:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Cane Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Melon Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Potato Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Vine Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[02:33:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[02:33:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[02:33:28] [Server thread/INFO]: Mob Spawn Range: 6
-[02:33:28] [Server thread/INFO]: Experience Merge Radius: 3.0
-[02:33:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[02:33:28] [Server thread/INFO]: Item Despawn Rate: 6000
-[02:33:28] [Server thread/INFO]: Item Merge Radius: 2.5
-[02:33:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[02:33:28] [Server thread/INFO]: View Distance: 10
-[02:33:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[02:33:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[02:33:28] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[02:33:28] [Server thread/INFO]: Random Lighting Updates: false
-[02:33:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[02:33:28] [Server thread/INFO]: Max TNT Explosions: 100
-[02:33:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[02:33:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Cane Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Melon Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Potato Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Vine Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[02:33:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[02:33:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[02:33:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[02:33:28] [Server thread/INFO]: Mob Spawn Range: 6
-[02:33:28] [Server thread/INFO]: Experience Merge Radius: 3.0
-[02:33:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[02:33:28] [Server thread/INFO]: Item Despawn Rate: 6000
-[02:33:28] [Server thread/INFO]: Item Merge Radius: 2.5
-[02:33:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[02:33:28] [Server thread/INFO]: View Distance: 10
-[02:33:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[02:33:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[02:33:28] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: 451765645521189810)
-[02:33:29] [Server thread/INFO]: Preparing spawn area: 4%
-[02:33:29] [Server thread/INFO]: Preparing spawn area: 8%
-[02:33:29] [Server thread/INFO]: Preparing spawn area: 12%
-[02:33:29] [Server thread/INFO]: Preparing spawn area: 16%
-[02:33:29] [Server thread/INFO]: Preparing spawn area: 20%
-[02:33:29] [Server thread/INFO]: Preparing spawn area: 24%
-[02:33:30] [Server thread/INFO]: Preparing spawn area: 28%
-[02:33:30] [Server thread/INFO]: Preparing spawn area: 32%
-[02:33:30] [Server thread/INFO]: Preparing spawn area: 36%
-[02:33:30] [Server thread/INFO]: Preparing spawn area: 40%
-[02:33:30] [Server thread/INFO]: Preparing spawn area: 44%
-[02:33:31] [Server thread/INFO]: Preparing spawn area: 48%
-[02:33:31] [Server thread/INFO]: Preparing spawn area: 52%
-[02:33:31] [Server thread/INFO]: Preparing spawn area: 56%
-[02:33:31] [Server thread/INFO]: Preparing spawn area: 60%
-[02:33:31] [Server thread/INFO]: Preparing spawn area: 64%
-[02:33:31] [Server thread/INFO]: Preparing spawn area: 68%
-[02:33:31] [Server thread/INFO]: Preparing spawn area: 72%
-[02:33:32] [Server thread/INFO]: Preparing spawn area: 76%
-[02:33:32] [Server thread/INFO]: Preparing spawn area: 80%
-[02:33:32] [Server thread/INFO]: Preparing spawn area: 84%
-[02:33:32] [Server thread/INFO]: Preparing spawn area: 88%
-[02:33:32] [Server thread/INFO]: Preparing spawn area: 92%
-[02:33:32] [Server thread/INFO]: Preparing spawn area: 96%
-[02:33:32] [Server thread/INFO]: Preparing spawn area: 100%
-[02:33:32] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: 2552357326589440985)
-[02:33:32] [Server thread/INFO]: Preparing spawn area: 4%
-[02:33:32] [Server thread/INFO]: Preparing spawn area: 8%
-[02:33:33] [Server thread/INFO]: Preparing spawn area: 12%
-[02:33:33] [Server thread/INFO]: Preparing spawn area: 16%
-[02:33:33] [Server thread/INFO]: Preparing spawn area: 20%
-[02:33:33] [Server thread/INFO]: Preparing spawn area: 24%
-[02:33:33] [Server thread/INFO]: Preparing spawn area: 28%
-[02:33:33] [Server thread/INFO]: Preparing spawn area: 32%
-[02:33:33] [Server thread/INFO]: Preparing spawn area: 36%
-[02:33:34] [Server thread/INFO]: Preparing spawn area: 40%
-[02:33:34] [Server thread/INFO]: Preparing spawn area: 44%
-[02:33:34] [Server thread/INFO]: Preparing spawn area: 48%
-[02:33:34] [Server thread/INFO]: Preparing spawn area: 52%
-[02:33:34] [Server thread/INFO]: Preparing spawn area: 56%
-[02:33:34] [Server thread/INFO]: Preparing spawn area: 60%
-[02:33:35] [Server thread/INFO]: Preparing spawn area: 64%
-[02:33:35] [Server thread/INFO]: Preparing spawn area: 68%
-[02:33:35] [Server thread/INFO]: Preparing spawn area: 72%
-[02:33:35] [Server thread/INFO]: Preparing spawn area: 76%
-[02:33:35] [Server thread/INFO]: Preparing spawn area: 80%
-[02:33:35] [Server thread/INFO]: Preparing spawn area: 84%
-[02:33:35] [Server thread/INFO]: Preparing spawn area: 88%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 92%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 96%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 100%
-[02:33:36] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: 2552357326589440985)
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 4%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 8%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 12%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 16%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 20%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 24%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 28%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 32%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 36%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 40%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 44%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 48%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 52%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 56%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 60%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 64%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 68%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 72%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 76%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 80%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 84%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 88%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 92%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 96%
-[02:33:36] [Server thread/INFO]: Preparing spawn area: 100%
-[02:33:36] [Server thread/INFO]: Time elapsed: 8326 ms
-[02:33:36] [Server thread/INFO]: [MineableSpawners] Enabling MineableSpawners v1.4
-[02:33:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:33:36] [Server thread/INFO]: Done (10.746s)! For help, type "help"
-[02:33:41] [Server thread/INFO]: The difficulty is Hard
-[02:33:45] [User Authenticator #1/INFO]: UUID of player Sleepy_monky is 83e4e777-8df2-467d-b221-04a30edb6915
-[02:33:46] [Server thread/INFO]: Sleepy_monky[/70.113.150.16:57908] logged in with entity id 480 at ([world]-169.7186305109381, 41.0, 226.44089523916531)
-[02:33:50] [User Authenticator #2/INFO]: UUID of player hunted7fold is 5f525425-4513-40b0-b045-eb3652127e95
-[02:33:51] [Server thread/INFO]: hunted7fold[/99.9.21.129:63989] logged in with entity id 496 at ([world]-93.07118348069534, 91.0, 264.1804695469563)
-[02:33:55] [Async Chat Thread - #0/INFO]: <hunted7fold> \[m
-[02:33:58] [User Authenticator #3/INFO]: UUID of player CyboVampire is 69fa6cfb-2e09-4764-9b1c-2bd17779272e
-[02:33:59] [Server thread/INFO]: CyboVampire[/76.19.149.191:58206] logged in with entity id 506 at ([world]-300.5130732760642, 70.9375, 260.4756734762394)
-[02:34:11] [Async Chat Thread - #0/INFO]: <hunted7fold> sorry, was permantely setting the difficulty as hard[m
-[02:34:27] [Async Chat Thread - #0/INFO]: <Sleepy_monky> it's better[m
-[02:37:35] [Server thread/INFO]: CyboVampire has made the advancement [What a Deal!]
-[02:44:24] [User Authenticator #4/INFO]: Disconnecting /75.17.243.87:52816: Failed to verify username!
-[02:44:24] [User Authenticator #4/ERROR]: Username 'iWeHr' tried to join with an invalid session
-[02:44:24] [Server thread/INFO]: /75.17.243.87:52816 lost connection: Failed to verify username!
-[02:44:32] [User Authenticator #5/INFO]: Disconnecting /75.17.243.87:52824: Failed to verify username!
-[02:44:32] [User Authenticator #5/ERROR]: Username 'iWeHr' tried to join with an invalid session
-[02:44:32] [Server thread/INFO]: /75.17.243.87:52824 lost connection: Failed to verify username!
-[02:45:01] [Server thread/INFO]: hunted7fold issued server command: /list whitelist
-[02:45:05] [Server thread/INFO]: hunted7fold issued server command: /whitelist
-[02:45:09] [Server thread/INFO]: hunted7fold issued server command: /whitelist list
-[02:45:24] [User Authenticator #6/INFO]: Disconnecting /75.17.243.87:52940: Failed to verify username!
-[02:45:24] [User Authenticator #6/ERROR]: Username 'iWeHr' tried to join with an invalid session
-[02:45:24] [Server thread/INFO]: /75.17.243.87:52940 lost connection: Failed to verify username!
-[02:45:29] [User Authenticator #7/INFO]: Disconnecting /75.17.243.87:52942: Failed to verify username!
-[02:45:29] [User Authenticator #7/ERROR]: Username 'iWeHr' tried to join with an invalid session
-[02:45:29] [Server thread/INFO]: /75.17.243.87:52942 lost connection: Failed to verify username!
-[02:45:40] [Server thread/INFO]: hunted7fold issued server command: /whitelist lsit
-[02:46:26] [User Authenticator #8/INFO]: UUID of player ItBLkeThtSomtims is 95b82d0c-455a-4fed-ab35-d81528190294
-[02:46:27] [Server thread/INFO]: ItBLkeThtSomtims[/75.17.243.87:53066] logged in with entity id 6581 at ([world]-149.5344519593614, 68.5, 250.82975119976186)
-[02:46:32] [Async Chat Thread - #1/INFO]: <hunted7fold> test[m
-[02:46:35] [Async Chat Thread - #1/INFO]: <ItBLkeThtSomtims> test[m
-[02:46:37] [Server thread/INFO]: hunted7fold issued server command: /whitelist list
-[02:46:41] [Server thread/INFO]: ItBLkeThtSomtims issued server command: /whitelist
-[02:46:57] [Server thread/INFO]: hunted7fold issued server command: /whitelist add ItBLkeThtSomtims
-[02:46:58] [Server thread/INFO]: ItBLkeThtSomtims issued server command: /whitelist ItBLkeThtSomtims
-[02:47:26] [Async Chat Thread - #1/INFO]: <CyboVampire> to the player with terrible aim leaving flaming arrows all over the ground, thanks for the free arrows[m
-[02:49:16] [Async Chat Thread - #2/INFO]: <hunted7fold> cybo you can build in the town btw[m
-[02:49:20] [Server thread/INFO]: CyboVampire has made the advancement [The Parrots and the Bats]
-[02:49:20] [Async Chat Thread - #2/INFO]: <ItBLkeThtSomtims> cybo, you can build in our town btw[m
-[02:49:46] [Async Chat Thread - #2/INFO]: <CyboVampire> I know, I just wanna be a hermit and instead live in the dangers outside[m
-[02:49:53] [Async Chat Thread - #2/INFO]: <Sleepy_monky> lol[m
-[02:51:00] [Server thread/INFO]: hunted7fold has made the advancement [Ice Bucket Challenge]
-[02:54:16] [Server thread/INFO]: CyboVampire has made the advancement [We Need to Go Deeper]
-[02:58:18] [Async Chat Thread - #3/INFO]: <CyboVampire> I cleaned this place up :D[m
-[02:58:28] [Async Chat Thread - #3/INFO]: <Sleepy_monky> thx![m
-[02:58:43] [Async Chat Thread - #3/INFO]: <ItBLkeThtSomtims> -15, 83, 23[m
-[03:00:04] [Async Chat Thread - #4/INFO]: <hunted7fold> I got lost[m
-[03:00:10] [Async Chat Thread - #4/INFO]: <CyboVampire> y shoot me?[m
-[03:00:18] [Async Chat Thread - #4/INFO]: <hunted7fold> I was just shooting next to you[m
-[03:00:22] [Async Chat Thread - #4/INFO]: <hunted7fold> surprise[m
-[03:03:09] [Server thread/INFO]: CyboVampire fell from a high place
-[03:03:17] [Async Chat Thread - #5/INFO]: <Sleepy_monky> oof[m
-[03:03:18] [Async Chat Thread - #5/INFO]: <hunted7fold> rip[m
-[03:03:24] [Async Chat Thread - #5/INFO]: <hunted7fold> i'll watch your stuff[m
-[03:03:31] [Async Chat Thread - #5/INFO]: <CyboVampire> thx[m
-[03:03:41] [Async Chat Thread - #5/INFO]: <hunted7fold> tell me if you can't get back in time and I shoudl pick up[m
-[03:04:26] [Async Chat Thread - #5/INFO]: <hunted7fold> you good?[m
-[03:04:29] [Async Chat Thread - #5/INFO]: <CyboVampire> ye[m
-[03:11:40] [Async Chat Thread - #6/INFO]: <CyboVampire> wish we has horses[m
-[03:11:46] [Async Chat Thread - #6/INFO]: <ItBLkeThtSomtims> we ran into a few[m
-[03:11:56] [Async Chat Thread - #6/INFO]: <ItBLkeThtSomtims> head south[m
-[03:11:56] [Async Chat Thread - #6/INFO]: <hunted7fold> next time I find some I'm going to bring them to the villllage[m
-[03:11:58] [Async Chat Thread - #6/INFO]: <ItBLkeThtSomtims> there are some there[m
-[03:12:08] [Async Chat Thread - #6/INFO]: <ItBLkeThtSomtims> south or north[m
-[03:12:16] [Async Chat Thread - #6/INFO]: <CyboVampire> just bring 2 then you can breed them[m
-[03:13:38] [Async Chat Thread - #7/INFO]: <CyboVampire> yall got saddles?[m
-[03:13:43] [Async Chat Thread - #7/INFO]: <hunted7fold> I have one[m
-[03:13:48] [Async Chat Thread - #7/INFO]: <hunted7fold> I think we have another in the hosue[m
-[03:13:51] [Async Chat Thread - #7/INFO]: <ItBLkeThtSomtims> oh do we[m
-[03:13:52] [Async Chat Thread - #7/INFO]: <hunted7fold> hosue[m
-[03:13:54] [Async Chat Thread - #7/INFO]: <ItBLkeThtSomtims> we got tons[m
-[03:13:56] [Async Chat Thread - #7/INFO]: <hunted7fold> husoeu[m
-[03:13:59] [Async Chat Thread - #7/INFO]: <hunted7fold> house[m
-[03:14:16] [Async Chat Thread - #7/INFO]: <CyboVampire> also, which way is south?[m
-[03:14:20] [Async Chat Thread - #7/INFO]: <hunted7fold> f3[m
-[03:14:26] [Async Chat Thread - #7/INFO]: <Sleepy_monky> press f3[m
-[03:14:32] [Async Chat Thread - #7/INFO]: <ItBLkeThtSomtims> towards the giant mountain[m
-[03:14:45] [Async Chat Thread - #7/INFO]: <ItBLkeThtSomtims> with respect to your house[m
-[03:14:53] [Async Chat Thread - #7/INFO]: <CyboVampire> thx[m
-[03:16:33] [Async Chat Thread - #8/INFO]: <ItBLkeThtSomtims> dudududududududududududu[m
-[03:17:03] [Async Chat Thread - #8/INFO]: <ItBLkeThtSomtims> dudududududududududu[m
-[03:21:32] [Async Chat Thread - #9/INFO]: <CyboVampire> you farming obsidion or something?[m
-[03:21:35] [Async Chat Thread - #9/INFO]: <ItBLkeThtSomtims> ye[m
-[03:21:41] [Async Chat Thread - #9/INFO]: <ItBLkeThtSomtims> making an obsidian wall[m
-[03:21:46] [Async Chat Thread - #9/INFO]: <ItBLkeThtSomtims> anti creeper[m
-[03:22:15] [User Authenticator #9/INFO]: UUID of player _ssquare is 5eb12cb3-f965-4f57-9ea9-dd3e7d0b9c61
-[03:22:16] [Server thread/INFO]: _ssquare[/71.150.223.203:62190] logged in with entity id 18988 at ([world]-84.57402872539188, 134.0, 390.69999998807907)
-[03:22:39] [Server thread/INFO]: CyboVampire has made the advancement [Enchanter]
-[03:26:05] [Async Chat Thread - #10/INFO]: <hunted7fold> sorry[m
-[03:26:45] [Async Chat Thread - #10/INFO]: <ItBLkeThtSomtims> cybo, are you looking for something[m
-[03:26:58] [Async Chat Thread - #10/INFO]: <CyboVampire> a guy can't fish?[m
-[03:27:18] [Async Chat Thread - #10/INFO]: <ItBLkeThtSomtims> we can, but we have plenty of food[m
-[03:33:08] [Async Chat Thread - #11/INFO]: <CyboVampire> maybe before you finish the wall, you should make a gateway in so that you don't have to mine one out later[m
-[03:33:13] [Async Chat Thread - #11/INFO]: <ItBLkeThtSomtims> yeah[m
-[03:33:16] [Async Chat Thread - #11/INFO]: <ItBLkeThtSomtims> thats what we plan to do[m
-[03:34:39] [Server thread/INFO]: ItBLkeThtSomtims lost connection: Disconnected
-[03:34:39] [Server thread/INFO]: ItBLkeThtSomtims left the game
-[03:34:47] [Server thread/INFO]: hunted7fold lost connection: Disconnected
-[03:34:47] [Server thread/INFO]: hunted7fold left the game
-[03:35:47] [User Authenticator #10/INFO]: UUID of player ItBLkeThtSomtims is 95b82d0c-455a-4fed-ab35-d81528190294
-[03:35:47] [Server thread/INFO]: ItBLkeThtSomtims[/75.17.243.87:53310] logged in with entity id 24494 at ([world]-145.6733775496335, 64.0, 268.77637995585155)
-[03:40:46] [Server thread/INFO]: ItBLkeThtSomtims issued server command: /whitelist add Rebosh16
-[03:40:46] [Server thread/INFO]: [ItBLkeThtSomtims: Added Rebosh16 to the whitelist]
-[03:41:09] [Server thread/INFO]: ItBLkeThtSomtims lost connection: Disconnected
-[03:41:09] [Server thread/INFO]: ItBLkeThtSomtims left the game
-[03:41:22] [User Authenticator #11/INFO]: UUID of player ItBLkeThtSomtims is 95b82d0c-455a-4fed-ab35-d81528190294
-[03:41:22] [Server thread/INFO]: ItBLkeThtSomtims[/75.17.243.87:53340] logged in with entity id 27160 at ([world]-147.30000001192096, 67.0, 193.52821684432126)
-[03:41:30] [User Authenticator #12/INFO]: UUID of player Rebosh16 is 5bf93aff-1c15-4d97-bc66-9c43cf2e2031
-[03:41:30] [Server thread/INFO]: Rebosh16[/108.82.255.204:59003] logged in with entity id 27195 at ([world]-125.5, 67.0, 171.5)
-[03:45:28] [User Authenticator #13/INFO]: UUID of player tardbucket is b7bcbd80-2579-482c-a1c1-2415878b1ac7
-[03:45:28] [Server thread/INFO]: tardbucket[/68.248.210.15:51876] logged in with entity id 28698 at ([world]-173.30000001192093, 67.0, 216.30000001192093)
-[03:45:43] [Server thread/INFO]: Rebosh16 has made the advancement [Monster Hunter]
-[03:45:44] [Server thread/INFO]: Rebosh16 has made the advancement [Into Fire]
-[03:45:52] [Server thread/INFO]: _ssquare lost connection: Disconnected
-[03:45:52] [Server thread/INFO]: _ssquare left the game
-[03:46:03] [Server thread/INFO]: Rebosh16 has made the advancement [Suit Up]
-[03:46:09] [User Authenticator #14/INFO]: UUID of player hunted7fold is 5f525425-4513-40b0-b045-eb3652127e95
-[03:46:10] [Server thread/INFO]: hunted7fold[/99.9.21.129:55581] logged in with entity id 28972 at ([world]-155.8110601935313, 64.0, 260.67015540394436)
-[03:50:57] [Server thread/INFO]: Rebosh16 issued server command: /nick
-[03:51:00] [Server thread/INFO]: Rebosh16 issued server command: /nickname
-[03:51:00] [Server thread/INFO]: hunted7fold issued server command: /nickname
-[03:51:02] [Server thread/INFO]: hunted7fold issued server command: /help
-[03:51:04] [Server thread/INFO]: hunted7fold issued server command: /nick
-[03:51:06] [Server thread/INFO]: hunted7fold issued server command: /nicknm
-[03:51:21] [Async Chat Thread - #12/INFO]: <hunted7fold> everyone in the server[m
-[03:51:26] [Async Chat Thread - #12/INFO]: <CyboVampire> yes[m
-[03:51:28] [Async Chat Thread - #12/INFO]: <hunted7fold> type 1 if you want alex as op[m
-[03:51:31] [Async Chat Thread - #12/INFO]: <hunted7fold> 0 if you don't[m
-[03:51:31] [Async Chat Thread - #12/INFO]: <tardbucket> 1[m
-[03:51:31] [Async Chat Thread - #12/INFO]: <ItBLkeThtSomtims> 0[m
-[03:51:39] [Async Chat Thread - #12/INFO]: <Sleepy_monky> 0[m
-[03:51:43] [Async Chat Thread - #12/INFO]: <ItBLkeThtSomtims> 6[m
-[03:51:46] [Async Chat Thread - #12/INFO]: <Rebosh16> -5[m
-[03:51:54] [Async Chat Thread - #12/INFO]: <Rebosh16> F[m
-[03:52:00] [Async Chat Thread - #12/INFO]: <ItBLkeThtSomtims> 3F[m
-[03:52:09] [Async Chat Thread - #12/INFO]: <Sleepy_monky> 3F[m
-[03:52:38] [Server thread/INFO]: Rebosh16 has made the advancement [Diamonds!]
-[03:52:51] [Async Chat Thread - #12/INFO]: <hunted7fold> who should be a second op[m
-[03:52:54] [Async Chat Thread - #12/INFO]: <Rebosh16> me[m
-[03:52:55] [Async Chat Thread - #12/INFO]: <hunted7fold> nominate a second op[m
-[03:52:58] [Async Chat Thread - #12/INFO]: <CyboVampire> 不[m
-[03:53:32] [Async Chat Thread - #12/INFO]: <Rebosh16> Op me senpai UwU[m
-[03:53:35] [Async Chat Thread - #12/INFO]: <CyboVampire> I FISHED A SADDLE[m
-[03:54:07] [Server thread/INFO]: hunted7fold issued server command: /op _ssquare
-[03:54:07] [Server thread/INFO]: [hunted7fold: Made _ssquare a server operator]
-[03:54:22] [Async Chat Thread - #12/INFO]: <hunted7fold> ssquare is an op[m
-[03:54:40] [Server thread/INFO]: hunted7fold issued server command: /help
-[03:54:43] [Server thread/INFO]: hunted7fold issued server command: /help 2
-[03:54:44] [Server thread/INFO]: hunted7fold issued server command: /help 3
-[03:54:46] [Server thread/INFO]: hunted7fold issued server command: /help 4
-[03:55:14] [Server thread/INFO]: hunted7fold issued server command: /nick
-[03:55:17] [Server thread/INFO]: hunted7fold issued server command: /nick hunted7fold f
-[03:55:28] [Server thread/INFO]: hunted7fold issued server command: /help 4
-[03:55:30] [Server thread/INFO]: Rebosh16 issued server command: /msg ItBLkeThtSomtims tp to him
-[03:55:30] [Server thread/INFO]: hunted7fold issued server command: /help 4
-[03:55:32] [Server thread/INFO]: hunted7fold issued server command: /help 5
-[03:55:36] [Server thread/INFO]: hunted7fold issued server command: /help 6
-[03:55:39] [Server thread/INFO]: hunted7fold issued server command: /help 7
-[03:55:43] [Server thread/INFO]: hunted7fold issued server command: /help 8
-[03:55:46] [Server thread/INFO]: hunted7fold issued server command: /help 9
-[03:55:48] [Server thread/INFO]: hunted7fold issued server command: /help 10
-[03:55:55] [Server thread/INFO]: hunted7fold issued server command: /help 11
-[03:56:00] [Async Chat Thread - #13/INFO]: <hunted7fold> cybo[m
-[03:56:03] [Async Chat Thread - #13/INFO]: <CyboVampire> ?[m
-[03:56:08] [Async Chat Thread - #13/INFO]: <hunted7fold> why don't you want to join the discord[m
-[03:56:15] [Async Chat Thread - #13/INFO]: <CyboVampire> what discord?[m
-[03:56:15] [Async Chat Thread - #13/INFO]: <hunted7fold> we are friendly people[m
-[03:56:28] [Async Chat Thread - #13/INFO]: <hunted7fold> we talk in discord while playing on the server[m
-[03:56:36] [Async Chat Thread - #13/INFO]: <CyboVampire> I don't have an invite link[m
-[03:56:38] [Async Chat Thread - #13/INFO]: <hunted7fold> do you want to join the voice chat?[m
-[03:56:42] [Async Chat Thread - #13/INFO]: <CyboVampire> sure[m
-[03:56:48] [Async Chat Thread - #13/INFO]: <hunted7fold> use this:[m
-[03:56:49] [Async Chat Thread - #13/INFO]: <hunted7fold> https://discord.gg/5xbuZ3[m
-[03:57:21] [Server thread/INFO]: Rebosh16 has made the advancement [Sweet Dreams]
-[03:57:58] [Async Chat Thread - #14/INFO]: <hunted7fold> did it work??[m
-[03:58:02] [Async Chat Thread - #14/INFO]: <CyboVampire> yes[m
-[04:00:31] [Server thread/INFO]: hunted7fold lost connection: Disconnected
-[04:00:31] [Server thread/INFO]: hunted7fold left the game
-[04:01:03] [Server thread/INFO]: Rebosh16 was shot by Skeleton
-[04:02:51] [Async Chat Thread - #15/INFO]: <ItBLkeThtSomtims> im sorry[m
-[04:02:54] [Async Chat Thread - #15/INFO]: <Sleepy_monky> was that u cybo[m
-[04:02:57] [Async Chat Thread - #15/INFO]: <ItBLkeThtSomtims> i didnt mean to be weird[m
-[04:02:59] [Async Chat Thread - #15/INFO]: <CyboVampire> yes[m
-[04:03:01] [Async Chat Thread - #15/INFO]: <ItBLkeThtSomtims> it just kinda happens[m
-[04:03:05] [Async Chat Thread - #15/INFO]: <CyboVampire> I don't have a microphone[m
-[04:03:11] [Async Chat Thread - #15/INFO]: <ItBLkeThtSomtims> itjustblkethatsomtims[m
-[04:04:27] [Server thread/INFO]: CyboVampire has made the advancement [Not Today, Thank You]
-[04:05:34] [Async Chat Thread - #16/INFO]: <CyboVampire> holy sh*t, I ran into my home with 1 heart and I find a skeleton in my house[m
-[04:05:43] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> cursing is ok[m
-[04:05:47] [Async Chat Thread - #16/INFO]: <Rebosh16> HE SAID A BAD WORD[m
-[04:05:51] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> this server is 100% christian[m
-[04:05:54] [Async Chat Thread - #16/INFO]: <Rebosh16> ban him[m
-[04:06:13] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> \ban cybovampire[m
-[04:06:25] [Async Chat Thread - #16/INFO]: <CyboVampire> wut[m
-[04:06:31] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> its a forward slash[m
-[04:06:31] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> xd[m
-[04:06:38] [Async Chat Thread - #16/INFO]: <Sleepy_monky> oh wrong slash[m
-[04:06:56] [Async Chat Thread - #16/INFO]: <Sleepy_monky> get it right next time[m
-[04:07:01] [Async Chat Thread - #16/INFO]: <CyboVampire> y ban me>[m
-[04:07:06] [Async Chat Thread - #16/INFO]: <CyboVampire> ?[m
-[04:07:07] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> we arent[m
-[04:07:09] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> it was joke[m
-[04:07:11] [Async Chat Thread - #16/INFO]: <Rebosh16> no[m
-[04:07:13] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> sleepy is being a bully[m
-[04:07:13] [Async Chat Thread - #16/INFO]: <Rebosh16> he cursed[m
-[04:07:15] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> i should ban him[m
-[04:07:18] [Async Chat Thread - #16/INFO]: <Rebosh16> he saida bad fucking word[m
-[04:07:22] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> \ban Sleepy_monky[m
-[04:07:53] [Async Chat Thread - #16/INFO]: <CyboVampire> should I join your discord call just so that I don't have to use in game chat?[m
-[04:08:02] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> up 2 u m8[m
-[04:08:04] [Async Chat Thread - #16/INFO]: <ItBLkeThtSomtims> we sent you th[m
-[04:11:26] [Server thread/WARN]: CyboVampire moved too quickly! 10.222054993121617,-0.2522033402537289,-0.37549912783379114
-[04:11:43] [Server thread/INFO]: Rebosh16 has made the advancement [Ice Bucket Challenge]
-[04:12:08] [Server thread/WARN]: CyboVampire moved too quickly! 5.182977945020156,-7.0,-4.964731136438843
-[04:12:15] [Async Chat Thread - #17/INFO]: <Rebosh16> I want to be sans[m
-[04:12:19] [Async Chat Thread - #17/INFO]: <ItBLkeThtSomtims> no[m
-[04:28:53] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[04:28:59] [Spigot Watchdog Thread/ERROR]: The server has stopped responding! This is (probably) not a Spigot bug.
-[04:29:01] [Spigot Watchdog Thread/ERROR]: If you see a plugin in the Server thread dump below, then please report it to that author
-[04:29:03] [Spigot Watchdog Thread/ERROR]: 	 *Especially* if it looks like HTTP or MySQL operations are occurring
-[04:29:04] [Spigot Watchdog Thread/ERROR]: If you see a world save or edit, then it means you did far more than your server can handle at once
-[04:29:05] [Spigot Watchdog Thread/ERROR]: 	 If this is the case, consider increasing timeout-time in spigot.yml but note that this will replace the crash with LARGE lag spikes
-[04:29:07] [Spigot Watchdog Thread/ERROR]: If you are unsure or still think this is a Spigot bug, please report to https://www.spigotmc.org/
-[04:29:08] [Spigot Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
-[04:29:36] [Spigot Watchdog Thread/ERROR]: Spigot version: git-Spigot-8ede039-d0a9130 (MC: 1.13.2)
-[04:31:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
-[04:31:42] [Spigot Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Spigot!):
+[05:51:25] [main/INFO]: Loaded 0 recipes
+[05:51:25] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[05:51:25] [Server thread/INFO]: Loading properties
+[05:51:25] [Server thread/INFO]: Default game type: SURVIVAL
+[05:51:26] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-8ede039-d0a9130 (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[05:51:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:51:26] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:51:26] [Server thread/INFO]: Debug logging is disabled
+[05:51:26] [Server thread/INFO]: Generating keypair
+[05:51:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:51:26] [Server thread/INFO]: Using epoll channel type
+[05:51:33] [Server thread/INFO]: [MineableSpawners] Loading MineableSpawners v1.4
+[05:51:33] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[05:51:33] [Server thread/INFO]: Preparing level "world"
+[05:51:33] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[05:51:34] [Server thread/INFO]: Loaded 524 recipes
+[05:51:35] [Server thread/INFO]: -------- World Settings For [world] --------
+[05:51:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[05:51:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:51:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[05:51:35] [Server thread/INFO]: Random Lighting Updates: false
+[05:51:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[05:51:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:51:35] [Server thread/INFO]: Mob Spawn Range: 6
+[05:51:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Potato Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Vine Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Max TNT Explosions: 100
+[05:51:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:51:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:51:35] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:51:35] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:51:35] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[05:51:35] [Server thread/INFO]: View Distance: 10
+[05:51:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:51:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:51:35] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[05:51:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[05:51:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:51:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[05:51:35] [Server thread/INFO]: Random Lighting Updates: false
+[05:51:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[05:51:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:51:35] [Server thread/INFO]: Mob Spawn Range: 6
+[05:51:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Potato Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Vine Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Max TNT Explosions: 100
+[05:51:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:51:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:51:35] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:51:35] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:51:35] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[05:51:35] [Server thread/INFO]: View Distance: 10
+[05:51:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:51:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:51:35] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[05:51:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[05:51:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:51:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[05:51:35] [Server thread/INFO]: Random Lighting Updates: false
+[05:51:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[05:51:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:51:35] [Server thread/INFO]: Mob Spawn Range: 6
+[05:51:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Potato Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Vine Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[05:51:35] [Server thread/INFO]: Max TNT Explosions: 100
+[05:51:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:51:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:51:35] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:51:35] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:51:35] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[05:51:35] [Server thread/INFO]: View Distance: 10
+[05:51:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:51:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:51:35] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: 451765645521189810)
+[05:51:36] [Server thread/INFO]: Preparing spawn area: 4%
+[05:51:36] [Server thread/INFO]: Preparing spawn area: 8%
+[05:51:36] [Server thread/INFO]: Preparing spawn area: 12%
+[05:51:37] [Server thread/INFO]: Preparing spawn area: 16%
+[05:51:37] [Server thread/INFO]: Preparing spawn area: 20%
+[05:51:37] [Server thread/INFO]: Preparing spawn area: 24%
+[05:51:37] [Server thread/INFO]: Preparing spawn area: 28%
+[05:51:37] [Server thread/INFO]: Preparing spawn area: 32%
+[05:51:37] [Server thread/INFO]: Preparing spawn area: 36%
+[05:51:37] [Server thread/INFO]: Preparing spawn area: 40%
+[05:51:38] [Server thread/INFO]: Preparing spawn area: 44%
+[05:51:38] [Server thread/INFO]: Preparing spawn area: 48%
+[05:51:38] [Server thread/INFO]: Preparing spawn area: 52%
+[05:51:38] [Server thread/INFO]: Preparing spawn area: 56%
+[05:51:38] [Server thread/INFO]: Preparing spawn area: 60%
+[05:51:38] [Server thread/INFO]: Preparing spawn area: 64%
+[05:51:39] [Server thread/INFO]: Preparing spawn area: 68%
+[05:51:39] [Server thread/INFO]: Preparing spawn area: 72%
+[05:51:39] [Server thread/INFO]: Preparing spawn area: 76%
+[05:51:39] [Server thread/INFO]: Preparing spawn area: 80%
+[05:51:39] [Server thread/INFO]: Preparing spawn area: 84%
+[05:51:39] [Server thread/INFO]: Preparing spawn area: 88%
+[05:51:39] [Server thread/INFO]: Preparing spawn area: 92%
+[05:51:39] [Server thread/INFO]: Preparing spawn area: 96%
+[05:51:40] [Server thread/INFO]: Preparing spawn area: 100%
+[05:51:40] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: 2552357326589440985)
+[05:51:40] [Server thread/INFO]: Preparing spawn area: 4%
+[05:51:40] [Server thread/INFO]: Preparing spawn area: 8%
+[05:51:40] [Server thread/INFO]: Preparing spawn area: 12%
+[05:51:40] [Server thread/INFO]: Preparing spawn area: 16%
+[05:51:40] [Server thread/INFO]: Preparing spawn area: 20%
+[05:51:40] [Server thread/INFO]: Preparing spawn area: 24%
+[05:51:41] [Server thread/INFO]: Preparing spawn area: 28%
+[05:51:41] [Server thread/INFO]: Preparing spawn area: 32%
+[05:51:41] [Server thread/INFO]: Preparing spawn area: 36%
+[05:51:41] [Server thread/INFO]: Preparing spawn area: 40%
+[05:51:41] [Server thread/INFO]: Preparing spawn area: 44%
+[05:51:41] [Server thread/INFO]: Preparing spawn area: 48%
+[05:51:42] [Server thread/INFO]: Preparing spawn area: 52%
+[05:51:42] [Server thread/INFO]: Preparing spawn area: 56%
+[05:51:42] [Server thread/INFO]: Preparing spawn area: 60%
+[05:51:42] [Server thread/INFO]: Preparing spawn area: 64%
+[05:51:42] [Server thread/INFO]: Preparing spawn area: 68%
+[05:51:42] [Server thread/INFO]: Preparing spawn area: 72%
+[05:51:42] [Server thread/INFO]: Preparing spawn area: 76%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 80%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 84%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 88%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 92%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 96%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 100%
+[05:51:43] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: 2552357326589440985)
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 4%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 8%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 12%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 16%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 20%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 24%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 28%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 32%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 36%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 40%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 44%
+[05:51:43] [Server thread/INFO]: Preparing spawn area: 48%
+[05:51:44] [Server thread/INFO]: Preparing spawn area: 52%
+[05:51:44] [Server thread/INFO]: Preparing spawn area: 56%
+[05:51:44] [Server thread/INFO]: Preparing spawn area: 60%
+[05:51:44] [Server thread/INFO]: Preparing spawn area: 64%
+[05:51:44] [Server thread/INFO]: Preparing spawn area: 68%
+[05:51:44] [Server thread/INFO]: Preparing spawn area: 72%
+[05:51:44] [Server thread/INFO]: Preparing spawn area: 76%
+[05:51:44] [Server thread/INFO]: Preparing spawn area: 80%
+[05:51:44] [Server thread/INFO]: Preparing spawn area: 84%
+[05:51:44] [Server thread/INFO]: Preparing spawn area: 88%
+[05:51:44] [Server thread/INFO]: Preparing spawn area: 92%
+[05:51:44] [Server thread/INFO]: Preparing spawn area: 96%
+[05:51:44] [Server thread/INFO]: Preparing spawn area: 100%
+[05:51:44] [Server thread/INFO]: Time elapsed: 8489 ms
+[05:51:44] [Server thread/INFO]: [MineableSpawners] Enabling MineableSpawners v1.4
+[05:51:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:51:44] [Server thread/INFO]: Done (10.838s)! For help, type "help"
+[05:51:48] [User Authenticator #1/INFO]: UUID of player tardbucket is b7bcbd80-2579-482c-a1c1-2415878b1ac7
+[05:51:48] [Server thread/INFO]: tardbucket[/68.248.210.15:53260] logged in with entity id 432 at ([world]-163.89782986459264, 42.875, 213.63650611050784)
+[05:52:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[05:52:28] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[05:52:28] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[05:52:28] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[05:52:28] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[05:52:28] [Server thread/INFO]: [0;33;22mMineableSpawners: [0;37;1mAll commands for MineableSpawners[m
+[05:52:28] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/bossbar: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/data: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/datapack: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/experience: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/forceload: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/msg: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/publish: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/restart: [0;37;1mRestarts the server[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/spawner: [0;37;1m[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/spawnergive: [0;37;1m[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/spigot: [0;37;1mSpigot related commands[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/tag: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/team: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mManages Spigot Timings data to see performance of the server.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/tps: [0;37;1mGets the current ticks per second for the server[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/w: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[05:52:28] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[07:18:33] [Server thread/WARN]: tardbucket moved wrongly!
+[07:29:11] [Server thread/WARN]: tardbucket moved wrongly!
+[07:29:41] [Server thread/WARN]: tardbucket moved wrongly!
+[07:29:47] [Server thread/WARN]: tardbucket moved wrongly!
+[07:29:48] [Server thread/WARN]: tardbucket moved wrongly!
+[07:29:53] [Server thread/WARN]: tardbucket moved wrongly!
+[07:30:04] [Server thread/WARN]: tardbucket moved wrongly!
+[07:30:15] [Server thread/WARN]: tardbucket moved wrongly!
+[07:31:01] [Server thread/WARN]: tardbucket moved wrongly!
+[07:31:02] [Server thread/WARN]: tardbucket moved wrongly!
+[07:31:37] [Server thread/WARN]: tardbucket moved wrongly!
+[07:31:51] [Server thread/WARN]: tardbucket moved wrongly!
+[07:31:52] [Server thread/WARN]: tardbucket moved wrongly!
+[07:31:53] [Server thread/WARN]: tardbucket moved wrongly!
+[07:32:33] [Server thread/WARN]: Skipping Entity with id minecraft:
+[07:32:43] [Server thread/WARN]: tardbucket moved wrongly!
+[07:32:44] [Server thread/WARN]: tardbucket moved wrongly!
+[07:35:21] [Server thread/WARN]: tardbucket moved wrongly!
+[07:35:22] [Server thread/WARN]: tardbucket moved wrongly!
+[07:36:47] [Server thread/WARN]: tardbucket moved wrongly!
+[07:36:48] [Server thread/WARN]: tardbucket moved wrongly!
+[07:40:34] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[07:41:32] [Spigot Watchdog Thread/ERROR]: The server has stopped responding! This is (probably) not a Spigot bug.
+[07:41:34] [Spigot Watchdog Thread/ERROR]: If you see a plugin in the Server thread dump below, then please report it to that author
+[07:41:34] [Spigot Watchdog Thread/ERROR]: 	 *Especially* if it looks like HTTP or MySQL operations are occurring
+[07:41:34] [Spigot Watchdog Thread/ERROR]: If you see a world save or edit, then it means you did far more than your server can handle at once
+[07:41:34] [Spigot Watchdog Thread/ERROR]: 	 If this is the case, consider increasing timeout-time in spigot.yml but note that this will replace the crash with LARGE lag spikes
+[07:41:34] [Spigot Watchdog Thread/ERROR]: If you are unsure or still think this is a Spigot bug, please report to https://www.spigotmc.org/
+[07:41:34] [Spigot Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[07:41:34] [Spigot Watchdog Thread/ERROR]: Spigot version: git-Spigot-8ede039-d0a9130 (MC: 1.13.2)
+[07:41:34] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[07:41:34] [Spigot Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Spigot!):
+[07:43:37] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[07:43:50] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[07:46:21] [Spigot Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: false | State: RUNNABLE
+[07:46:23] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[07:46:30] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.NetworkManager.sendPacket(NetworkManager.java:162)
+[07:46:33] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PlayerConnection.a(PlayerConnection.java:1391)
+[07:46:34] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PlayerConnection.sendPacket(PlayerConnection.java:1364)
+[07:46:35] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PlayerChunk.b(SourceFile:73)
+[07:46:36] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PlayerChunkMap.movePlayer(PlayerChunkMap.java:314)
+[07:46:37] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PlayerList.updateChunks(PlayerList.java:391)
+[07:46:38] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PlayerConnection.a(PlayerConnection.java:976)
+[07:46:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PacketPlayInFlying.a(SourceFile:126)
+[07:46:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PacketPlayInFlying$PacketPlayInPositionLook.a(SourceFile:18)
+[07:46:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PlayerConnectionUtils.a(SourceFile:10)
+[07:46:48] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PlayerConnectionUtils$$Lambda$1694/1398488467.run(Unknown Source)
+[07:46:50] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+[07:46:50] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.FutureTask.run(FutureTask.java:266)
+[07:46:51] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.SystemUtils.a(SourceFile:199)
+[07:46:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:895)
+[07:46:56] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:417)
+[07:46:56] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:830)
+[07:46:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:728)
+[07:46:57] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[07:46:57] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[07:46:57] [Spigot Watchdog Thread/ERROR]: Entire Thread Dump:
+[07:50:40] [Server thread/WARN]: tardbucket moved wrongly!
+[09:17:00] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[09:17:11] [Spigot Watchdog Thread/ERROR]: Current Thread: File IO Thread
+[09:17:32] [Spigot Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: RUNNABLE
+[09:17:45] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[09:18:17] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[09:18:29] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.FileIOThread.c(SourceFile:59)
+[09:18:38] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.FileIOThread.run(SourceFile:35)
+[09:19:05] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[09:19:31] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[09:19:53] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #3
+[09:20:06] [Spigot Watchdog Thread/ERROR]: 	PID: 30 | Suspended: false | Native: true | State: RUNNABLE
+[09:20:20] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[09:20:35] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait0(Native Method)
+[09:20:50] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:114)
+[09:20:59] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+[09:21:07] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+[09:21:17] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[09:21:28] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[09:21:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[09:21:50] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #2
+[09:22:01] [Spigot Watchdog Thread/ERROR]: 	PID: 29 | Suspended: false | Native: false | State: RUNNABLE
+[09:22:14] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[09:22:47] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait0(Native Method)
+[09:23:05] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:114)
+[09:23:15] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+[09:23:26] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+[09:23:42] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[09:23:55] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[09:24:25] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[09:24:37] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #1
+[09:26:31] [Spigot Watchdog Thread/ERROR]: 	PID: 28 | Suspended: false | Native: false | State: RUNNABLE
+[09:26:56] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[09:27:11] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait0(Native Method)
+[09:27:22] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:114)
+[09:27:38] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+[09:28:09] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+[09:28:17] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[09:28:39] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[09:28:50] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[09:29:00] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #0
+[09:29:09] [Spigot Watchdog Thread/ERROR]: 	PID: 27 | Suspended: false | Native: false | State: RUNNABLE
+[09:29:55] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[09:30:14] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait0(Native Method)
+[09:30:39] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:114)
+[09:31:05] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+[09:31:22] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+[09:31:54] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[09:32:10] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[09:56:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[09:58:25] [Spigot Watchdog Thread/ERROR]: Current Thread: ObjectCleanerThread
+[09:58:41] [Spigot Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: TIMED_WAITING
+[10:10:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[10:23:32] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[10:23:49] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+[10:24:02] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+[10:24:14] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[10:25:04] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[10:26:04] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[10:26:17] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Metrics Thread
+[10:26:34] [Spigot Watchdog Thread/ERROR]: 	PID: 25 | Suspended: false | Native: false | State: TIMED_WAITING
+[10:27:04] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[10:27:20] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[10:27:34] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Timer.java:552)
+[10:27:47] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Timer.java:505)
+[10:28:06] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[10:28:20] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Watchdog Thread
+[10:28:43] [Spigot Watchdog Thread/ERROR]: 	PID: 24 | Suspended: false | Native: false | State: RUNNABLE
+[10:28:54] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[10:29:07] [Spigot Watchdog Thread/ERROR]: 		sun.management.ThreadImpl.dumpThreads0(Native Method)
+[10:29:19] [Spigot Watchdog Thread/ERROR]: 		sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:454)
+[10:29:30] [Spigot Watchdog Thread/ERROR]: 		org.spigotmc.WatchdogThread.run(WatchdogThread.java:86)
+[10:29:39] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[10:29:50] [Spigot Watchdog Thread/ERROR]: Current Thread: Server console handler
+[10:30:12] [Spigot Watchdog Thread/ERROR]: 	PID: 22 | Suspended: false | Native: true | State: RUNNABLE
+[10:30:27] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[10:34:06] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+[10:34:19] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+[10:34:58] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+[10:35:10] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+[10:35:23] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[10:35:38] [Spigot Watchdog Thread/ERROR]: 		java.io.FileInputStream.readBytes(Native Method)
+[10:35:52] [Spigot Watchdog Thread/ERROR]: 		java.io.FileInputStream.read(FileInputStream.java:255)
+[10:36:06] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[10:36:18] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+[10:36:35] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+[10:36:48] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+[10:37:04] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+[10:37:22] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+[10:37:32] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+[10:38:42] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+[10:38:55] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2349)
+[10:39:31] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.DedicatedServer$2.run(DedicatedServer.java:91)
+[10:39:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[10:39:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-4
+[10:40:08] [Spigot Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: false | State: RUNNABLE
+[10:40:23] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[10:40:35] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.TerminalLineSettings.getProperty(TerminalLineSettings.java:101)
+[10:41:41] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.UnixTerminal.getWidth(UnixTerminal.java:76)
+[10:41:54] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.drawBuffer(ConsoleReader.java:879)
+[10:42:05] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.drawBuffer(ConsoleReader.java:898)
+[10:42:14] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.drawLine(ConsoleReader.java:608)
+[10:42:24] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_13_R2.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:40)
+[10:42:45] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[10:42:58] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[10:43:18] [Spigot Watchdog Thread/ERROR]: Current Thread: DestroyJavaVM
+[10:43:38] [Spigot Watchdog Thread/ERROR]: 	PID: 21 | Suspended: false | Native: false | State: RUNNABLE
+[10:43:57] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[10:44:27] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[10:45:39] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[10:45:51] [Spigot Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: false | State: RUNNABLE
+[10:46:44] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[10:47:01] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.util.zip.Inflater.inflate(Inflater.java:259)
+[10:47:11] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+[10:47:22] [Spigot Watchdog Thread/ERROR]: 		Locked on:net.minecraft.server.v1_13_R2.RegionFileCache.read(RegionFileCache.java:91)
+[10:47:34] [Spigot Watchdog Thread/ERROR]: 		Locked on:net.minecraft.server.v1_13_R2.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:92)
+[10:47:46] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[10:50:23] [Spigot Watchdog Thread/ERROR]: 		java.util.zip.Inflater.inflateBytes(Native Method)
+[10:50:36] [Spigot Watchdog Thread/ERROR]: 		java.util.zip.Inflater.inflate(Inflater.java:259)
+[10:51:13] [Spigot Watchdog Thread/ERROR]: 		java.util.zip.InflaterInputStream.read(InflaterInputStream.java:152)
+[10:51:22] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[10:52:32] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+[10:54:40] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+[10:58:15] [Spigot Watchdog Thread/ERROR]: 		java.io.DataInputStream.readFully(DataInputStream.java:195)
+[10:58:28] [Spigot Watchdog Thread/ERROR]: 		java.io.DataInputStream.readUTF(DataInputStream.java:609)
+[10:59:15] [Spigot Watchdog Thread/ERROR]: 		java.io.DataInputStream.readUTF(DataInputStream.java:564)
+[10:59:26] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.NBTTagString.load(SourceFile:41)
+[10:59:35] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.NBTTagCompound.a(SourceFile:437)
+[10:59:45] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.NBTTagCompound.load(SourceFile:81)
+[10:59:56] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.NBTTagList.load(SourceFile:69)
+[11:00:16] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.NBTTagCompound.a(SourceFile:437)
+[11:00:38] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.NBTTagCompound.load(SourceFile:81)
+[11:00:51] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.NBTTagList.load(SourceFile:69)
+[11:01:08] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.NBTTagCompound.a(SourceFile:437)
+[11:01:22] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.NBTTagCompound.load(SourceFile:81)
+[11:01:34] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.NBTTagCompound.a(SourceFile:437)
+[11:01:47] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.NBTTagCompound.load(SourceFile:81)
+[11:02:01] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:84)
+[11:02:12] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:53)
+[11:02:21] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:43)
+[11:02:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.RegionFileCache.read(RegionFileCache.java:91)
+[11:03:09] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.ChunkRegionLoader.a(ChunkRegionLoader.java:93)
+[11:03:23] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.ChunkRegionLoader.a(ChunkRegionLoader.java:47)
+[11:03:45] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.ChunkRegionLoader.loadChunk(ChunkRegionLoader.java:156)
+[11:03:59] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.ChunkRegionLoader.a(ChunkRegionLoader.java:141)
+[11:04:14] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:92)
+[11:04:43] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PlayerChunk.<init>(SourceFile:43)
+[11:04:57] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PlayerChunkMap.c(PlayerChunkMap.java:198)
+[11:05:11] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PlayerChunkMap.movePlayer(PlayerChunkMap.java:327)
+[11:05:21] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PlayerList.updateChunks(PlayerList.java:391)
+[11:05:30] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PlayerConnection.a(PlayerConnection.java:976)
+[11:05:43] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PacketPlayInFlying.a(SourceFile:126)
+[11:05:55] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PacketPlayInFlying$PacketPlayInPositionLook.a(SourceFile:18)
+[11:06:07] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PlayerConnectionUtils.a(SourceFile:10)
+[11:06:19] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.PlayerConnectionUtils$$Lambda$1694/1398488467.run(Unknown Source)
+[11:06:40] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+[11:07:06] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.FutureTask.run(FutureTask.java:266)
+[11:07:30] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.SystemUtils.a(SourceFile:199)
+[11:07:50] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:895)
+[11:10:50] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:417)
+[11:11:02] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:830)
+[11:11:14] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:728)
+[11:11:27] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[11:11:51] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[11:12:23] [Spigot Watchdog Thread/ERROR]: Current Thread: Server Infinisleeper
+[11:12:34] [Spigot Watchdog Thread/ERROR]: 	PID: 20 | Suspended: false | Native: false | State: TIMED_WAITING
+[11:12:56] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[11:13:06] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[11:13:16] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_13_R2.DedicatedServer$1.run(DedicatedServer.java:66)
+[11:13:27] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[11:13:48] [Spigot Watchdog Thread/ERROR]: Current Thread: NonBlockingInputStreamThread
+[11:13:59] [Spigot Watchdog Thread/ERROR]: 	PID: 17 | Suspended: false | Native: false | State: WAITING
+[11:14:13] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[11:14:32] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[11:14:47] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.run(NonBlockingInputStream.java:278)
+[11:15:13] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[11:15:25] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[11:15:39] [Spigot Watchdog Thread/ERROR]: Current Thread: Snooper Timer
+[11:16:57] [Spigot Watchdog Thread/ERROR]: 	PID: 15 | Suspended: false | Native: false | State: WAITING
+[11:17:17] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[11:30:08] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[12:42:29] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Object.java:502)
+[12:42:51] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Timer.java:526)
+[12:43:02] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Timer.java:505)
+[12:43:11] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[12:44:03] [Spigot Watchdog Thread/ERROR]: Current Thread: Signal Dispatcher
+[12:44:51] [Spigot Watchdog Thread/ERROR]: 	PID: 5 | Suspended: false | Native: false | State: RUNNABLE
+[12:45:15] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[12:45:29] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[12:45:48] [Spigot Watchdog Thread/ERROR]: Current Thread: Finalizer
+[12:46:03] [Spigot Watchdog Thread/ERROR]: 	PID: 3 | Suspended: false | Native: false | State: WAITING
+[12:46:19] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[12:46:34] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[12:46:43] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+[13:04:21] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:165)
+[13:04:43] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:216)
+[13:04:55] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[13:05:08] [Spigot Watchdog Thread/ERROR]: Current Thread: Reference Handler
+[13:05:20] [Spigot Watchdog Thread/ERROR]: 	PID: 2 | Suspended: false | Native: false | State: WAITING
+[13:05:30] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[13:05:39] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[13:05:50] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Object.java:502)
+[13:06:04] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.Reference.tryHandlePending(Reference.java:191)
+[13:06:16] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.Reference$ReferenceHandler.run(Reference.java:153)
+[13:06:29] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[16:44:47] [Spigot Watchdog Thread/INFO]: Attempting to restart with ./start.sh

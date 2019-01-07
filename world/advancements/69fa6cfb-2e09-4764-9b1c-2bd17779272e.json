@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-01-06 16:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone": {
     "criteria": {
       "has_vine": "2019-01-05 22:25:00 +0000"
@@ -377,6 +383,7 @@
       "chicken": "2019-01-03 21:58:58 +0000",
       "cooked_beef": "2019-01-03 22:16:24 +0000",
       "beef": "2019-01-05 21:34:29 +0000",
+      "baked_potato": "2019-01-06 20:36:52 +0000",
       "porkchop": "2019-01-03 22:15:15 +0000",
       "apple": "2019-01-03 21:47:38 +0000",
       "spider_eye": "2019-01-05 03:10:59 +0000",
@@ -603,6 +610,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2019-01-05 02:49:20 +0000",
+      "minecraft:chicken": "2019-01-06 17:12:03 +0000",
       "minecraft:horse": "2019-01-05 21:59:36 +0000"
     },
     "done": false
@@ -643,6 +651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-01-06 17:09:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2019-01-04 01:52:10 +0000"
@@ -661,15 +675,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2019-01-03 21:49:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-01-03 21:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2019-01-03 21:49:12 +0000"
     },
     "done": true
   },
@@ -757,6 +771,18 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2019-01-06 17:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-01-06 20:19:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2019-01-03 21:47:38 +0000"
@@ -796,6 +822,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-01-03 22:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2019-01-06 16:31:45 +0000"
     },
     "done": true
   },
@@ -853,6 +885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2019-01-06 20:39:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-01-05 03:18:12 +0000"
@@ -895,6 +933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2019-01-06 16:07:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-01-03 23:07:40 +0000"
@@ -905,6 +949,9 @@
     "criteria": {
       "minecraft:blaze": "2019-01-06 00:24:05 +0000",
       "minecraft:skeleton": "2019-01-05 00:45:36 +0000",
+      "minecraft:phantom": "2019-01-06 20:46:26 +0000",
+      "minecraft:witch": "2019-01-06 16:07:34 +0000",
+      "minecraft:zombie_pigman": "2019-01-06 20:47:00 +0000",
       "minecraft:spider": "2019-01-04 02:00:32 +0000",
       "minecraft:zombie": "2019-01-03 22:03:27 +0000",
       "minecraft:drowned": "2019-01-05 01:17:39 +0000",
@@ -1035,6 +1082,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-01-03 21:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-01-06 17:09:49 +0000"
     },
     "done": true
   },
@@ -1296,6 +1349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2019-01-06 17:08:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-01-05 01:17:41 +0000"
@@ -1374,6 +1433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-01-06 16:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2019-01-05 01:17:41 +0000"
@@ -1389,6 +1454,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2019-01-05 02:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-01-06 16:07:39 +0000"
     },
     "done": true
   },
@@ -1530,6 +1601,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-01-06 16:31:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2019-01-05 02:28:04 +0000"
@@ -1646,6 +1723,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:desert": "2019-01-06 20:39:48 +0000",
       "minecraft:savanna_plateau": "2019-01-03 21:42:39 +0000",
       "minecraft:river": "2019-01-03 22:33:11 +0000",
       "minecraft:wooded_hills": "2019-01-05 01:04:55 +0000",
@@ -1831,6 +1909,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2019-01-05 02:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2019-01-06 19:52:49 +0000"
     },
     "done": true
   },

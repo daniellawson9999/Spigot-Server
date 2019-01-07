@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-01-06 08:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-01-01 06:43:51 +0000"
@@ -290,6 +296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-01-06 07:00:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2019-01-01 06:16:58 +0000"
@@ -305,6 +317,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2019-01-01 08:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-01-06 08:23:34 +0000"
     },
     "done": true
   },
@@ -382,7 +400,9 @@
       "apple": "2019-01-01 10:46:30 +0000",
       "spider_eye": "2019-01-04 08:29:32 +0000",
       "poisonous_potato": "2019-01-01 09:27:42 +0000",
+      "pumpkin_pie": "2019-01-06 08:05:01 +0000",
       "bread": "2019-01-01 08:00:36 +0000",
+      "golden_apple": "2019-01-06 08:12:42 +0000",
       "rotten_flesh": "2019-01-01 07:03:41 +0000",
       "melon_slice": "2019-01-04 00:18:12 +0000",
       "carrot": "2019-01-01 10:25:31 +0000"
@@ -467,13 +487,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-01-01 10:48:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-01-01 10:48:23 +0000"
     },
@@ -752,6 +772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2019-01-06 08:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-01-01 06:24:16 +0000"
@@ -905,8 +931,8 @@
       "minecraft:magma_cube": "2019-01-02 04:09:56 +0000",
       "minecraft:spider": "2019-01-01 07:04:13 +0000",
       "minecraft:zombie": "2019-01-01 07:03:32 +0000",
-      "minecraft:drowned": "2019-01-03 03:44:35 +0000",
       "minecraft:creeper": "2019-01-01 06:58:22 +0000",
+      "minecraft:drowned": "2019-01-03 03:44:35 +0000",
       "minecraft:zombie_villager": "2019-01-02 07:29:51 +0000",
       "minecraft:slime": "2019-01-03 00:35:22 +0000"
     },
@@ -1050,6 +1076,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-01-07 06:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2019-01-01 06:26:41 +0000"
@@ -1092,6 +1124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2019-01-06 08:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2019-01-01 07:54:08 +0000"
@@ -1125,6 +1163,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-01-01 09:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-01-07 06:34:53 +0000"
     },
     "done": true
   },
@@ -1548,6 +1592,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2019-01-07 06:37:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_logs": "2019-01-01 06:16:39 +0000"
@@ -1628,10 +1678,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-01-03 04:04:53 +0000",
       "minecraft:cold_ocean": "2019-01-03 04:06:28 +0000",
-      "minecraft:mountains": "2019-01-03 03:39:33 +0000",
+      "minecraft:jungle_edge": "2019-01-03 04:04:53 +0000",
       "minecraft:forest": "2019-01-03 03:43:39 +0000",
+      "minecraft:mountains": "2019-01-03 03:39:33 +0000",
       "minecraft:desert_hills": "2019-01-03 03:19:39 +0000",
       "minecraft:desert": "2019-01-02 07:58:04 +0000",
       "minecraft:jungle": "2019-01-03 04:05:34 +0000",
@@ -1814,6 +1864,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2019-01-02 04:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-01-07 06:34:53 +0000"
     },
     "done": true
   },

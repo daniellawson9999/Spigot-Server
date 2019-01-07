@@ -1,0 +1,125 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 262144 bytes for committing reserved memory.
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   In 32 bit mode, the process size limit was hit
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Use 64 bit Java on a 64 bit OS
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (os_linux.cpp:2760), pid=7869, tid=0x00007f8f3e448700
+#
+# JRE version: OpenJDK Runtime Environment (8.0_191-b12) (build 1.8.0_191-b12)
+# Java VM: OpenJDK 64-Bit Server VM (25.191-b12 mixed mode linux-amd64 compressed oops)
+# Failed to write core dump. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00007f8f5446a800):  JavaThread "Netty Epoll Server IO #0" daemon [_thread_in_vm, id=7910, stack(0x00007f8f3e348000,0x00007f8f3e449000)]
+
+Stack: [0x00007f8f3e348000,0x00007f8f3e449000],  sp=0x00007f8f3e4467d0,  free space=1017k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [libjvm.so+0xada78d]
+V  [libjvm.so+0x4ff98a]
+V  [libjvm.so+0x8cfef8]
+V  [libjvm.so+0x8c70de]
+V  [libjvm.so+0xad7534]
+V  [libjvm.so+0x858833]
+V  [libjvm.so+0x858aae]
+V  [libjvm.so+0x859e7d]
+V  [libjvm.so+0x859f6b]
+V  [libjvm.so+0x85ac3d]
+V  [libjvm.so+0x85ada7]
+V  [libjvm.so+0x87325c]
+V  [libjvm.so+0x861f58]
+V  [libjvm.so+0x2fcb31]
+V  [libjvm.so+0x2fdc3e]
+V  [libjvm.so+0x9f7f65]
+V  [libjvm.so+0x681324]
+V  [libjvm.so+0x6816a5]
+j  io.netty.channel.DefaultChannelPipeline.addLast0(Lio/netty/channel/AbstractChannelHandlerContext;)V+0
+j  io.netty.channel.DefaultChannelPipeline.addLast(Lio/netty/util/concurrent/EventExecutorGroup;Ljava/lang/String;Lio/netty/channel/ChannelHandler;)Lio/netty/channel/ChannelPipeline;+26
+j  io.netty.channel.DefaultChannelPipeline.addLast(Ljava/lang/String;Lio/netty/channel/ChannelHandler;)Lio/netty/channel/ChannelPipeline;+4
+j  net.minecraft.server.v1_13_R2.ServerConnection$1.initChannel(Lio/netty/channel/Channel;)V+40
+j  io.netty.channel.ChannelInitializer.initChannel(Lio/netty/channel/ChannelHandlerContext;)Z+23
+j  io.netty.channel.ChannelInitializer.handlerAdded(Lio/netty/channel/ChannelHandlerContext;)V+16
+j  io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(Lio/netty/channel/AbstractChannelHandlerContext;)V+9
+j  io.netty.channel.DefaultChannelPipeline.access$000(Lio/netty/channel/DefaultChannelPipeline;Lio/netty/channel/AbstractChannelHandlerContext;)V+2
+j  io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute()V+25
+j  io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers()V+57
+j  io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded()V+44
+j  io.netty.channel.AbstractChannel$AbstractUnsafe.register0(Lio/netty/channel/ChannelPromise;)V+51
+j  io.netty.channel.AbstractChannel$AbstractUnsafe.register(Lio/netty/channel/EventLoop;Lio/netty/channel/ChannelPromise;)V+112
+j  io.netty.channel.SingleThreadEventLoop.register(Lio/netty/channel/ChannelPromise;)Lio/netty/channel/ChannelFuture;+20
+j  io.netty.channel.SingleThreadEventLoop.register(Lio/netty/channel/Channel;)Lio/netty/channel/ChannelFuture;+10
+j  io.netty.channel.MultithreadEventLoopGroup.register(Lio/netty/channel/Channel;)Lio/netty/channel/ChannelFuture;+5
+j  io.netty.bootstrap.ServerBootstrap$ServerBootstrapAcceptor.channelRead(Lio/netty/channel/ChannelHandlerContext;Ljava/lang/Object;)V+106
+J 14834 C2 io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(Lio/netty/channel/ChannelHandlerContext;Ljava/lang/Object;)V (9 bytes) @ 0x00007f8f8695dc60 [0x00007f8f8695db00+0x160]
+J 13412 C2 io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(Lio/netty/channel/AbstractChannelHandlerContext;Ljava/lang/Object;)V (54 bytes) @ 0x00007f8f8673d3f0 [0x00007f8f8673d300+0xf0]
+J 13176 C1 io.netty.channel.DefaultChannelPipeline.fireChannelRead(Ljava/lang/Object;)Lio/netty/channel/ChannelPipeline; (10 bytes) @ 0x00007f8f862a84c4 [0x00007f8f862a8440+0x84]
+j  io.netty.channel.epoll.AbstractEpollServerChannel$EpollServerSocketUnsafe.epollInReady()V+159
+j  io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe$1.run()V+15
+J 14580 C2 io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(J)Z (96 bytes) @ 0x00007f8f862d47a8 [0x00007f8f862d4420+0x388]
+J 15318% C2 io.netty.channel.epoll.EpollEventLoop.run()V (268 bytes) @ 0x00007f8f86ee6b94 [0x00007f8f86ee6980+0x214]
+j  io.netty.util.concurrent.SingleThreadEventExecutor$5.run()V+44
+j  java.lang.Thread.run()V+11
+v  ~StubRoutines::call_stub
+V  [libjvm.so+0x68bf7a]
+V  [libjvm.so+0x689414]
+V  [libjvm.so+0x689a29]
+V  [libjvm.so+0x6ce621]
+V  [libjvm.so+0xa839e2]
+V  [libjvm.so+0x8ccff2]
+C  [libpthread.so.0+0x7de5]  start_thread+0xc5
+
+Java frames: (J=compiled Java code, j=interpreted, Vv=VM code)
+j  io.netty.channel.DefaultChannelPipeline.addLast0(Lio/netty/channel/AbstractChannelHandlerContext;)V+0
+j  io.netty.channel.DefaultChannelPipeline.addLast(Lio/netty/util/concurrent/EventExecutorGroup;Ljava/lang/String;Lio/netty/channel/ChannelHandler;)Lio/netty/channel/ChannelPipeline;+26
+j  io.netty.channel.DefaultChannelPipeline.addLast(Ljava/lang/String;Lio/netty/channel/ChannelHandler;)Lio/netty/channel/ChannelPipeline;+4
+j  net.minecraft.server.v1_13_R2.ServerConnection$1.initChannel(Lio/netty/channel/Channel;)V+40
+j  io.netty.channel.ChannelInitializer.initChannel(Lio/netty/channel/ChannelHandlerContext;)Z+23
+j  io.netty.channel.ChannelInitializer.handlerAdded(Lio/netty/channel/ChannelHandlerContext;)V+16
+j  io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(Lio/netty/channel/AbstractChannelHandlerContext;)V+9
+j  io.netty.channel.DefaultChannelPipeline.access$000(Lio/netty/channel/DefaultChannelPipeline;Lio/netty/channel/AbstractChannelHandlerContext;)V+2
+j  io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute()V+25
+j  io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers()V+57
+j  io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded()V+44
+j  io.netty.channel.AbstractChannel$AbstractUnsafe.register0(Lio/netty/channel/ChannelPromise;)V+51
+j  io.netty.channel.AbstractChannel$AbstractUnsafe.register(Lio/netty/channel/EventLoop;Lio/netty/channel/ChannelPromise;)V+112
+j  io.netty.channel.SingleThreadEventLoop.register(Lio/netty/channel/ChannelPromise;)Lio/netty/channel/ChannelFuture;+20
+j  io.netty.channel.SingleThreadEventLoop.register(Lio/netty/channel/Channel;)Lio/netty/channel/ChannelFuture;+10
+j  io.netty.channel.MultithreadEventLoopGroup.register(Lio/netty/channel/Channel;)Lio/netty/channel/ChannelFuture;+5
+j  io.netty.bootstrap.ServerBootstrap$ServerBootstrapAcceptor.channelRead(Lio/netty/channel/ChannelHandlerContext;Ljava/lang/Object;)V+106
+J 14834 C2 io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(Lio/netty/channel/ChannelHandlerContext;Ljava/lang/Object;)V (9 bytes) @ 0x00007f8f8695dc60 [0x00007f8f8695db00+0x160]
+J 13412 C2 io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(Lio/netty/channel/AbstractChannelHandlerContext;Ljava/lang/Object;)V (54 bytes) @ 0x00007f8f8673d3f0 [0x00007f8f8673d300+0xf0]
+J 13176 C1 io.netty.channel.DefaultChannelPipeline.fireChannelRead(Ljava/lang/Object;)Lio/netty/channel/ChannelPipeline; (10 bytes) @ 0x00007f8f862a84c4 [0x00007f8f862a8440+0x84]
+j  io.netty.channel.epoll.AbstractEpollServerChannel$EpollServerSocketUnsafe.epollInReady()V+159
+j  io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe$1.run()V+15
+J 14580 C2 io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(J)Z (96 bytes) @ 0x00007f8f862d47a8 [0x00007f8f862d4420+0x388]
+J 15318% C2 io.netty.channel.epoll.EpollEventLoop.run()V (268 bytes) @ 0x00007f8f86ee6b94 [0x00007f8f86ee6980+0x214]
+j  io.netty.util.concurrent.SingleThreadEventExecutor$5.run()V+44
+j  java.lang.Thread.run()V+11
+v  ~StubRoutines::call_stub
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x00007f8f6c00b000 JavaThread "Netty Epoll Server IO #3" daemon [_thread_blocked, id=8135, stack(0x00007f8f3af55000,0x00007f8f3b056000)]
+  0x00007f8f6c009800 JavaThread "Netty Epoll Server IO #2" daemon [_thread_blocked, id=8124, stack(0x00007f8f3c158000,0x00007f8f3c259000)]
+  0x00007f8f6c008800 JavaThread "Netty Epoll Server IO #1" daemon [_thread_blocked, id=8123, stack(0x00007f8f7c5d9000,0x00007f8f7c6da000)]
+  0x00007f8f54387800 JavaThread "File IO Thread" [_thread_blocked, id=7935, stack(0x00007f8f7c0d8000,0x00007f8f7c1d9000)]
+=>0x00007f8f5446a800 JavaThread "Netty Epoll Server IO #0" daemon [_thread_in_vm, id=7910, stack(0x00007f8f3e348000,0x00007f8f3e449000)]
+  0x00007f8f544d2800 JavaThread "ObjectCleanerThread" daemon [_thread_blocked, id=7909, stack(0x00007f8f3e449000,0x00007f8f3e54a000)]
+  0x00007f8f54391000 JavaThread "Spigot Metrics Thread" daemon [_thread_blocked, id=7906, stack(0x00007f8f5c0ce000,0x00007f8f5c1cf000)]
+  0x00007f8f5415d800 JavaThread "Spigot Watchdog Thread" [_thread_blocked, id=7905, stack(0x00007f8f5c1cf000,0x00007f8f5c2d0000)]
+  0x00007f8f54043800 JavaThread "Server console handler" daemon [_thread_in_native, id=7904, stack(0x00007f8f5c4d0000,0x00007f8f5c5d1000)]
+  0x00007f8f54043000 JavaThread "Thread-4" [_thread_blocked, id=7903
